@@ -40,4 +40,5 @@ Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 + [Measuring Augmented Reality Impacts at Boeing](https://youtu.be/P-qJ6U-ixX0)
 + [Minor Smart Manufacturing and Robotics HHS - Tape laying system](http://www.smrdelft.nl/tudelft-tape-laying-system/)
 + [Smart Industry](https://www.smartindustry.nl/)
++ [Start document 1](https://docs.google.com/document/d/15ENq1DdoxcvuQniWOT_SsOYb75lvhmZhbc7f5QQxhXg/edit?usp=sharing) en [startdocument 2](https://docs.google.com/document/d/1MfCnI_vRe9vnBNRNP2XAG7q5gIji1ves7-sm5EhbpCM/edit?usp=sharing)
 
