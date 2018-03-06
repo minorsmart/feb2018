@@ -11,3 +11,6 @@ Bedrijven zoeken professionals die kunnen acteren op het snijvlak van Business e
 What?
 Wij bieden onderwijs die een basis legt voor Smart Industry professionals. Daarbij hoort [Smart Education](https://docs.google.com/presentation/d/1yzRZuZ8eL44iPEZDDvbOon0yy5gV1XNPWtriOCJByvE/edit?usp=sharing).
 
+Gedachten:
++ Het is niet mogelijk om op ieder moment alle ontwikkelingen en alle expertise in huis te hebben.
+
