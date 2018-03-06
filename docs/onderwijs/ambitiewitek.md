@@ -2,7 +2,7 @@
 Why?
 Smart industry wordt gedreven door de ontwikkeling van nieuwe ICT en
 productietechnologie en verandert de industrie radicaal. Voorop lopen in
-digitalisering van de industrie is cruciaal voor werkgelegen heid, toekomstige
+digitalisering van de industrie is cruciaal voor werkgelegenheid, toekomstige
 economische groei en een duurzame industrie.
 
 How?
