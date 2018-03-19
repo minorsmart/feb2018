@@ -1,0 +1,1190 @@
+# WormBase Laboratory and Allele Designations
+# WormBase, version WS253
+# Generated 
+#Lab Designation/Allele Designation/Lab Representative/Institute/Email
+AA	dh	Adam Antebi	Max Planck Institute for Biology and Ageing	aantebi@bcm.tmc.edu
+AB	aa	Alan F. Bird	CSIRO Adelaide, Australia	
+ABR	sta	Anne Brunet	Stanford University, Stanford CA	anne.brunet@stanford.edu
+ABY	aby	Adela Ben-Yakar	University of Texas, Austin TX	ben-yakar@mail.utexas.edu
+ABZ	bgu	Anat Ben-Zvi	Ben Gurion University, Beer Sheva, Israe	anatbz@bgu.ac.il
+AC	ik	Caroline Goutte	Amherst College, Amherst MA	cegoutte@amherst.edu
+AD	as	Andrew W Singson	Waksman Institute, Piscataway NJ	asingso@emory.edu
+ADS	aea	Aravinthan D.T. Samuel	Harvard University, Cambridge, MA	samuel@physics.harvard.edu
+AE	at	Ann E Sluder	Massachusetts General Hospital, Charlestown, MA	aesluder@comcast.net
+AEB	eth	Markus Aebi	ETH Zurich, Zurich, Switzerland	aebi@micro.biol.ethz.ch
+AEK	evm	Aurora Esquela Kerscher	East Virginia Medical School, Norfolk VA	kerschae@evms.edu
+AF	sz	Andras Fodor	Ohio State University, Wooster, OH	fodorandras@yahoo.com
+AFS	cle	Aaron Frederick Severson	Cleveland State University, Cleveland OH	
+AG	av	Andy Golden	NCI, Frederick MD	golden@ncifcrf.gov
+AGC	cue	Christopher C Quinn	University of Wisconsin, Milwaukee W	quinnc@uwm.edu
+AGD	uth	Andrew G. Dillin	Salk Institute, La Jolla CA	
+AGF	fer	Anita G Fernandez	Fairfield University, Fairfield CT, USA.	
+AGK	arm	Alla Grishok	Columbia University, New York NY	ag2691@columbia.edu
+AGP	glm	Arjumand Ghazi	University of Pittsburgh, Pittsburgh PA	ghazia@pitt.edu
+AGR	rzv	Alexey G Ryazanov	UMDNJ, Piscataway NJ	ryazanag@umdnj.edu
+AH	zh	Alex F Hajnal	University of Zurich, Zurich, Switzerland	ahajnal@pty.smtp.usz.ch
+AHS	upp	Andrea Hinas	Uppsala University, Uppsala, Sweden	andrea.hinas@icm.uu.se
+AJ	es	Jaime Garcia-Anoveros	Northwestern University, Chicago IL	
+AJP	can	Alisa Julienne Piekny	Concordia University, Montreal, Canada	apiekny@alcor.concordia.ca
+AK	th	Ann Kathleen Corsi	Catholic Univ of America, Washington DC	
+AKA	smb	Alyson Ashe	University of Sydney, Sydney, Australia	alyson.ashe@sydney.edu.au
+AKR	aka	Anne-Katrin Rohlfing	University of Potsdam,Institute for Biochemistry and Biology, Karl-Liebknecht-Str. 24 - 25, Haus 26, 14476 Golm, GERMANY.	 annekaroh@aol.com
+AL	ic	Aixa Alfonso	University of Illinois, Chicago IL	aalfonso@uic.edu
+ALF	baf	Alfred Leo Fisher	University of Texas Health Science Center, TX	fishera2@uthscsa.edu
+ALM	tcn	Ayelet T. Lamm	Technion-IIT, Haifa, Israel	ayeletla@tx.technion.ac.il
+AM	rm	Richard I. Morimoto	Northwestern University, Evanston IL	r-morimoto@nwu.edu
+AMF	afa	Andre Martin Furger	University of Oxford, Oxford, England	andre.furger@bioch.ox.ac.uk
+AMG	ulv	Alan Morgan	University of Liverpool, Liverpool, UK	amorgan@liverpool.ac.uk
+AMH	sos	Andrea M Holgado	Southwestern Oklahoma State University, OK	andrea.holgado@swosu.edu
+AMJ	jam	Antony Merlin Jose	University of Maryland, College Park MD	amjose@umd.edu
+AML	wtf	Andrew Michael Leifer	Princeton University, Princeton, NJ	leifer@princeton.edu
+AMM	mcg	Annette M McGehee	Suffolk University, Boston, MA	amcgehee@suffolk.edu
+AMS	win	Amir Sapir	University of Haifa at Oranim, Tivon, Israel	amirsapir1@gmail.com
+AN	ty	Anna P. Newman	Baylor College of Medicine, Houston TX	anewman@bcm.tmc.edu
+ANA	ade	Marie Delattre	LBMC-ENS Lyon, France	marie.delattre@ens-lyon.fr
+ANF	nrt	Andrew G Fraser	University of Toronto, Toronto, Ontario, Canada	andyfraser.utoronto@gmail.com
+ANM	ucc	Alicia N. Minniti	Universidad Catolica de Chile, Santiago, Chile	aminniti@bio.puc.cl
+ANR	rog	Aric N Rogers	MDIBL, Salisbury Cove ME	arogers@mdibl.org
+AP	pu	Alessandro Puoti	University of Fribourg, Fribourg, Switzerland	allessandro.puoti@unifr.ch
+APD	apd	Juergen Goetz	University of Sydney, Camperdown, Australia	juergen.goetz@sydney.edu.au
+APP	hop	Aaron P. Putzke	Hope College, Holland MI	putzke@hope.edu
+APR	apr	Andreas P Russ	University of Oxford, Oxford, England	andreas.russ@bioch.ox.ac.uk
+APS	brz	Andre Pires da Silva	University of Warwick, Coventry, UK	
+APW	jbm	Andrew P Wojtovich	University of Rochester Medical Center, Rochester, NY	Andrew_Wojtovich@urmc.rochester.edu
+AQ	lj	William Ronald Schafer	MRC-LMB, Cambridge, England	wschafer@mrc-lmb.cam.ac.uk
+AR	mr	Mark B Roth	FHCRC, Seattle WA	mroth@fhcrc.org
+ARF	aaa	Alison R. Frand	UCLA, Los Angeles CA	afrand@mednet.ucla.edu
+ARM	wam	Alexander R Mendenhall	University of Washington, Seattle, WA	alexworm@uw.edu
+ARP	arp	Armando J. Parodi	Fundacion Instituto Leloir, Buenos Aires, Argentina	aparodi@leloir.org.ar
+AS	id	Andrew Michael Spence	University of Toronto, Canada	andrew_spence@utoronto.ca
+AT	yj	Samuel M Politz	Worcester Polytechnic Institute, Worcester MA	spolitz@wpi.wpi.edu
+ATD	ala	Adriana T Dawes	The Ohio State University, Columbus, OH	dawes.33@osu.ed
+ATG	fq	Enrique Martinez-Perez	University of Sheffield, Sheffield, England	E.Martinez-Perez@sheffield.ac.uk
+ATH	due	Janet Saito Duerr	Ohio University, Athens OH	duerr@ohio.edu
+ATL	ken	Martin Lyn Hudson	Kennesaw State University, Kennesaw, GA	mlhudson@ku.edu
+ATR	kis	Aleksandra Trifunovic	Karolinska Institute, Stockholm, Sweden	Aleksandra.Trifunovic@ki.se
+AU	ag	Frederick M Ausubel	Massachusetts General Hospital, Boston MA	
+AUM	viz	Swathi Arur	MD Anderson Cancer Research Center, Houston TX	
+AV	me	Anne M Villeneuve	Stanford University, Stanford CA	villen@cmgm.stanford.edu
+AVB	avb	Bruce Geller	AVB BioPharma, Corvallis OR	bgeller@avibio.com
+AVG	ury	Andres Gabriel Vidal-Gadea	Illinois State University, Illinois, IL	avidal@ilstu.edu
+AVS	art	Andrew Vaughn Samuelson	University of Rochester, Rochester N	andrew_samuelson@urmc.rochester.edu
+AW	ou	Alison Claire Woollard	University of Oxford, Oxford, England	woollard@bioch.ox.ac.uk
+AWK	roc	Aimee Wen Yi Kao	University of California, San Francisco CA	aimeekao@gmail.com
+AX	db	Mario G de Bono	MRC-LMB, Cambridge, England	debono@mrc-lmb.cam.ac.uk
+AY	ac	Alejandro Aballay	Duke University, Durham NC	
+AYE	slv	Ana Y Estevez	St Lawrence University, Canton NY	aestevez@stlawu.edu
+AZ	ru	Judith Austin	University of Chicago, Midway IL	jaustin@midway.uchicago.edu
+BA	hc	Samuel Ward	University of Arizona, Tucson AZ	sward@tikal.biosci.arizona.edu
+BAB	ind	Kavita Babu	IISER, Mohali, India	kavitababu@iisermohali.ac.in
+BAD		Byron James Adams	Brigham Young Univ, Provo UT	
+BAN	bon	Daniele Bano	MRC Toxicology Unit,Hodgkin Building,University of Leicester, Lancaster Road 138, Leicester LE19HN (UK)	db81@le.ac.uk
+BAR	ole	Arantza Barrios	University College, London, UK	a.barrios@ucl.ac.uk
+BAT	bar	Baris Tursun	Max Delbruck Center, Berlin, Germany	
+BAY		Bruce A Yankner	Harvard Medical School, Boston MA	bruce_yankner@hms.harvard.edu
+BB	uu	Brenda L. Bass	University of Utah, Salt Lake City UT	bbass@biochem.utah.edu
+BC	s	David Leonard Baillie	Simon Fraser University, Vancouver, B.C.	baillie@sfu.ca
+BCN	crg	Ben Lehner	CRG, Barcelona, Spain	ben.lehner@crg.es
+BCW	wue	Christian Stigloher	Universitaet Wrzburg, Wuerzburg, Germany	christian.stigloher@uni-wuerzburg.de
+BD	ss	Shiro Suetsugu	University of Tokyo, Tokyo, Japan	suetsugu@ims.u-tokyo.ac.jp
+BE	sc	Bob Edgar	University of California, Santa Cruz CA	
+BEG	aab	Asim A. Beg	Pharmacology Department,University of Michigan,1150 W. Medical Center Dr.1301D MSRB III,Ann Arbor, MI 48109. USA.	asimbeg@umich.edu
+BEL	hus	Steven Jos Husson	University of Antwerp, Antwerp, Belgium	Steven.Husson@ua.ac.be
+BER	hub	Eugene Berezikov	Eugene   Hubrecht Institute,Uppsalalaan 8, 3584 CT, Utrecht, The Netherlands.	e.berezikov@hubrecht.eu
+BF	ff	Emmanuel Culetto	University of Paris, Orsay, France	
+BG	nw	Elizabeth B. Goodwin	University of Wisconsin, Madison WI	ebg778@nwu.edu
+BH	hb	Barry M. Honda	Simon Fraser University, Vancouver, B.C.	honda@sfu.ca
+BHL	blt	Needhi Bhalla	University of California, Santa Cruz CA	nbhalla@ucsc.edu
+BIG	sml	Buck S. Samuel	Baylor College of Medicine, Houston, TX	buck.samuel@bcm.edu
+BIJ	jaa	Marja Jaattela	Institute of Cancer Biology, Copenhagen, Denmark	mj@cancer.dk
+BJ	kc	Rudolf E Leube	Johannes Gutenberg Univ, Mainz, Germany	
+BJD	und	Brian J Darby	University of North Dakota, Grand Forks ND	brian.darby@und.edu
+BJH	pek	Jihong Bai	FHCRC, Seattle WA	bai@molbio.mgh.harvard.edu
+BJS	sbj	Bjoern Schumacher	University of Cologne, Cologne, Germany	bjoern.schumacher@uni-koeln.de
+BK	qp	Matthew J Buechner	University of Kansas, Lawrence KS	matthew@eagle.cc.ukans.edu
+BL	in	Thomas Blumenthal	University of Colorado, Denver CO	tom.blumenthal@colorado.edu
+BLC	blc	Laura Bianchi	University of Miami, Miami FL,33136. USA	lbianchi@med.miami.edu
+BLW	ybq	Yingchuan B Qi	Hangzhou Normal University, Hang'zhou, China	billyqi@gmail.com
+BM	bb	David L. Mitchell	Boston Biomedical Research Institute,Boston MA	
+BN	bq	Peter Askjaer	Centro Andaluz de Biologia del Desarrollo - CABD, Sevilla, Spain	pask@upo.es
+BOL	mbd	Birgitta Olofsson	University of Sussex, Brighton, UK	nivenje@gmail.com
+BOP	bop	Bernhard O Palsson	Dept Bioengineering, Univ. California -San Diego,417 Powell-Focht Bioengineering Hall,9500 Gilman Drive, La Jolla,CA 92093-0412,USA.	pep0608@gmail.com
+BOX	mib	Mike Boxem	Utrecht University, Utrecht, The Netherlands	m.boxem@uu.nl
+BP	hy	Benjamin Podbilewicz	Technion IIT, Haifa, Israel	podbilew@tx.technion.ac.il
+BQ	dp	Patrick John Hu	University of Michigan, Ann Arbor MI	pathu@lsi.umich.edu
+BR	by	Ralf H Baumeister	Bioinf. and Mol. Genetics, Freiburg, Germany	baumeister@celegans.de
+BRC	ant	John Wang	Academica Sinica, Taipei, Taiwan	johnwang@gate.sinica.edu.tw
+BRF	syn	Popi Syntichaki	BRFAA, Athens, Greece.	
+BS	oz	Tim Schedl	Washington University, St. Louis MO	ts@genetics.wustl.edu
+BSS		Bjorn Sohlenius	Naturhistorikiska Riksmuseet, Stockholm, Sweden	Bjorn.Sohlenius@nrm.se
+BT	em	Bruce Elliot Vogel	University of Maryland, Baltimore MD	vogel@umbi.umd.edu
+BTJ	nct	Bi-Tzen Juang	National Chiao Tung University, Hsinchu, Taiwan	btjuang@nctu.edu.tw
+BTP	uiw	Bryan T Phillips	University of Iowa, Iowa City IA	bryan-phillips@uiowa.edu
+BU	kq	Myeongwoo Lee	Baylor University, Waco TX	
+BV	zb	Zhirong Bao	Sloan-Kettering Institute, New York	
+BW	ct	William B. Wood	University of Colorado, Boulder CO	WOOD@BOULDER.COLORADO.EDU
+BX	wa	Jennifer L. Watts	Washington State University, Pullman WA	jwatts@wsu.edu
+BXN	cjn	Brent Neumann	Monash University, Clayton, Victoria, Australia	brent.neumann@monash.edu
+BY	vt	Randy D Blakely	Vanderbilt University, Nashville TN	
+BYU	atn	Steven M Johnson	Brigham Young University, Provo UT	stevenj@byu.edu
+BZ	eg	Steven L McIntire	University of California, San Francisco CA	slm@gallo.ucsf.edu
+CA	ie	Abby F Dernburg	Lawrence Berkeley National Lab, Berkeley CA	afdernburg@lbl.gov
+CAL	wj	Akatsuki Kimura	National Inst of Genetics, Mishima, Japan	akkimura@lab.nig.ac.jp
+CB	e	Jonathan A Hodgkin	University of Oxford, Oxford, England	jonathan.hodgkin@bioch.ox.ac.uk
+CBC	mid	Glen Gerry Ernstrom	Middlebury College, Middlebury VT	gernstro@bates.edu
+CC	xg	Nathaniel Joao Szewczyk	University of Nottingham, Derby England	Nathaniel.Szewczyk@nottingham.ac.uk
+CCU	myr	Daniel C Williams	Coastal Carolina University, Conway, SC	dwilliams@coastal.edu
+CD	dc	Carl D Johnson	Axys Pharmaceuticals, South San Francisco CA	carl_johnson@hdfoundation.org
+CDH	pdu	Chang-Deng Hu	Purdue University, West Lafayette IN	cdhu@pharmacy.purdue.edu
+CE	ep	Jenny Kopczynski	Exelixis Pharmaceuticals, San Francisco CA	jennyk@exelixis.com
+CEC	sas	Carlos Egydio de Carvalho	University of Sasckatchewan, Saskatoon, Canada	carlos.carvalho@usask.ca
+CER	cer	Julian Ceron	Fondacion IDIBELL, Barcelona, Spain	jceron@idibell.cat, jceronmadrigal@gmail.com
+CEW		Carlos Eduardo Winter	University of Sao Paulo, Sao Paulo, Brazil	cewinter@biomed.icb2.usp.br
+CF	mu	Cynthia J Kenyon	Calico Life Sciences, South San Francisco, CA	cynthia@calicolabs.com
+CFB		Charles F Baer	University of Florida, Gainsville, FL	cbaer@zoo.ufl.edu
+CFC	lac	Catherine Freitag Clarke	UCLA, Los Angeles CA	cathy@mbi.ucla.edu
+CG	rg	Luis Rene Garcia	Texas A&M University, College Station TX	
+CGC	umn	Ann E Rougvie	CGC, University of Minnesota, MN	cgc@umn.edu
+CH	cg	James M. Kramer	Northwestern University, Chicago IL	jkramer@casbah.nwu.edu
+CHB	hmn	Maxwell G Heiman	Children's Hospital Boston, Boston MA	heiman@genetics.med.harvard.edu
+CHC	osw	Christopher H Chandler	State University of New York, Oswego NY	christopher.chandler@oswego.edu
+CHL	drp	Richard J Poole	University College London, London UK	r.poole@ucl.ac.uk
+CHP	fra	Christian Pohl	FMLS, Frankfurt, Germany	Pohl@em.uni-frankfurt.de
+CJ	jp	Christian Jeremy Malone	Penn State University, University Park, PA	cjm42@psu.edu
+CK	bk	Brian C Kraemer	University of Washington, Seattle WA	
+CL	dv	Christopher D Link	University of Colorado, Boulder CO	linkc@colorado.edu
+CLA		Nathan L Clark	University of Pittsburgh, Pittsburgh, PA	nclark@pitt.edu""
+CLB	gls	Collette Britton	University of Glasgow, Glasgow, UK	c.britton@vet.gla.ac.uk, cb32n@udcf.gla.ac.uk
+CLD	dah	Caroline Lund Dahlberg	Western Washington University, WA	lina.dahlberg@wwu.edu
+CLP	twn	Chun-Liang Pan	National Taiwan University, Taipei, Taiwan	chunliangpan@gmail.com
+CM	gu	Helen M Chamberlin	Ohio State University, Columbus OH	chamberlin.27@osu.edu
+CMH	msk	Cole M. Haynes	Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, Box #390, New York, NY 10065, USA.	haynesc@mskcc.org
+CMJ	ard	Casonya Matese Johnson	Georgia State University, Atlanta GA	cjohnson113@gsu.edu
+CN	vc	George Haughn	University of British Columbia, Vancouver, Canada	haughn@interchange.ubc.ca
+CNQ	cin	Olivier Cinquin	UC Irvine, CA 92697-2300 USA	ocinquin@uci.edu
+COP	knu	Christopher E Hopkins	Knudra Tech, Salt Lake City UT	chopkins@knudra.com
+CP	nm	Eric S Haag	University of Maryland, College Park MD	
+CPB	ptn	Clifford P. Brangwynne	Princeton University, Princeton NJ	cbrangwy@Princeton.EDU
+CPV	pav	Vittorio Bellotti	University of Pavia, Pavia, Italy	vbellot@unipv.it
+CQ	wq	Coleen T Murphy	Princeton University, Princeton NJ	ctmurphy@princeton.edu
+CR	pr	Charles S Rubin	Albert Einstein College of Medicine, Bronx NY	rubin@aecom.yu.edu
+CRB	dcr	Hiroaki Miki	Osaka University, Osaka, Japan	
+CRR	crr	Manuel Ruiz-Rubio	Departamento de Genetica,Edificio C-5 Gregor Mendel, 1 Planta, Campus de Rabanales, Universidad de Cordoba,14071 Cordoba. Spain	ge1rurum@uco.es
+CS	qc	Cathy Savage-Dunn	Queens College/CUNY, Flushing NY	savage@qc.edu
+CSM	mac	Long Ma	Central South University, Changsha, China	
+CSS	red	Sam Guoping Gu	Rutgers University, Piscataway NJ	ggu@dls.rutgers.edu
+CT	za	Frank J. Slack	Harvard University, Boston, MA	fslack@bidmc.harvard.edu
+CTD	wh	Colin T Dolphin	King's College London, London UK	
+CU	sm	Ding Xue	University of Colorado, Boulder CO	ding.xue@colorado.edu
+CUP	mam	Marie Macurkova	Charles University, Prague, Czech Republic	marie.macurkova@natur.cuni.cz
+CV	rj	Monica Paola Colaiacovo	Harvard Medical School, Cambrige MA	
+CVB	csn	Cheryl Lynn Van Buskirk	California State University Northridge, Northridge CA	cvb@caltech.edu
+CW	fc	Phil G Morgan	Case Western Reserve University, Cleveland OH	pgm2@po.cwru.edu
+CX	ky	Cornelia I Bargmann	University of California, San Francisco CA	cori@itsa.ucsf.edu
+CY	bv	Mark A Wilson	National Institute on Aging, Baltimore MD	wilsonma@grc.nia.nih.gov
+CZ	ju	Andrew D Chisholm	University of California, San Diego, CA	jin@biology.ucsc.edu
+DA	ad	Leon Avery	VCU, Richmond VA	lavery3@vcu.edu
+DAG	dom	Dominique A. Glauser	Universite de Fribourg, Fribourg, Switzerland	dominique.glauser@unifr.ch
+DAH	nap	Daniel Hochbaum	University of Buenos Aires, Argentina	hochbaumd@bg.fcen.uba.ar
+DAM	vie	Alexander Dammermann	Max Perutz Laboratories, Vienna, Austria	alex.dammermann@univie.ac.at
+DAW		David Alan Wharton	University of Otago, Dunedin, New Zealand	david.wharton@otago.ac.nz
+DB	rv	David McKenzie Bird	North Carolina State University, Raleigh NC	david_bird@ncsu.edu
+DC	br	Creg Darby	University of California, San Francisco, CA	creg.darby@ucsf.edu
+DCD	uq	Della C David	DZNE, Tuebingen, Germany	Della.David@dzne.de
+DCL	mkc	Di Chen	Nanjing University, Nanjing, China	hendi@nicemice.cn
+DCR	ola	Daniel A Colon-Ramos	Daniel Yale University, New Haven CT	dacr@cienciapr.org
+DD	d	Anthony J Otsuka	Illinois State University, Normal IL	ajotsuka@rs6000.cmp.ilstu.edu
+DDH	ddh	Daryl Douglas Hurd	St. John Fisher College, Rochester NY	dhurd@sjfc.edu
+DDP	uon	David I M de Pomerai	The University of Nottingham, Nottingham, UK	david.depomerai@nottingham.ac.uk
+DE	dn	James W. Dennis	Mt Sinai Hosp. Res. Inst., Toronto, Canada	
+DET	mwu	Ellen K Tarr	Midwestern University, Glendale AZ	etarrx@midwestern.edu
+DF	ny	David H. A. Fitch	New York University, New York NY	david.fitch@nyu.edu
+DG	tn	David I Greenstein	Vanderbilt University, Nashville TN	david.greenstein@mcmail.vanderbilt.edu
+DH	b	David Ian Hirsh	Columbia University, New York NY	dih1@columbia.edu
+DIV		James Philip McCarter	Divergence Inc, St. Louis, MO	mccarter@divergence.com
+DJ	dj	Melanie Houston Cobb	UT Southwestern Med Ctr, Dallas TX	mcobb@mednet.swmed.edu
+DJK	cnj	Darrell J. Killian	The Colorado College, Colorado Springs, CO	darrell.killian@coloradocollege.edu
+DJN	hav	Daniel J. Needleman	Harvard University, Cambridge MA	dan_needleman@harvard.edu
+DJR	djr	David Rudel	East Carolina University, NC	rudeld@ecu.edu
+DK	ta	Motomichi Doi	NAIST, Tsukuba, Japan	
+DKT	dkt	Daiju Kitagawa	National Institute of Genetics, Mishima, Japan	kitadai5@hotmail.co
+DL	mx	Scott Cameron	Novartis Institutes for Biological Research, Cambridge MA	johnscott.cameron@novartis.com
+DLM	uwa	Dana Lynn Miller	University of Washington, Seattle WA	dlm16@u.washington.edu
+DLW	lib	Diana E. Libuda	University of Oregon, Eugene, OR	libuda@molbio.uoregon.edu
+DM	ra	Donald Gordon Moerman	University of British Columbia, Vancouver B.C., Canada	moerman@zoology.ubc.ca
+DMH	han	Damien M O'Halloran	George Washington University, Washington DC	damienoh@email.gwu.edu
+DMR	syr	David M Rivers	Syracuse University, Syracuse, NY	dmrivers@syr.edu
+DMS	dma	Dengke K Ma	UCSF, San Francisco, CA	Dengke.Ma@ucsf.edu
+DN	sg	Christopher Ruark Gissendanner	Dept. of Biology	gissendanner@ulm.edu
+DOM	ccy	David O Morgan	 UCSF, San Francisco CA	
+DP	ed	David B Pilgrim	University of Alberta, Edmonton, Canada	dave.pilgrim@ualberta.ca
+DPB		David P Bartel	Whitehead Institute for Biomedical Research, Cambridge, MA	dbartel@wi.mit.edu
+DPX	mop	Dimitris P Xirodimas	CRBM/CNRS, Montpellier, France	
+DQ	vg	Maria Elena Gallegos	California State University, Hayward CA	maria.gallegos@csueastbay.edu
+DQM	bmd	David Q Matus	Duke University, Durham NC	david.matus@duke.edu
+DR	m		University of British Columbia, Vancouver, Canada	driddle@genomebc.ca
+DRK	gtg	Dieter R Klopfenstein	University of Goettingen, Goettingen, Germany	dklopfe@gwdg.de
+DRW		David R Wolstenholme	University of Utah, Salt Lake City UT	Wolstenholme@biology.utah.edu
+DS	tx	Diane C Shakes	College of William & Mary, Williamsburg VA	dcshak@facstaff.wm.edu
+DT	jb	Dan T Stinchcomb	Synergen, Boulder CO	
+DU	un	Margaret A. Titus	University of Minnesota, Minneapolis MN	titus@lenti.med.umn.edu
+DUD	dud	Denis Dupuy	IECB (Bordeaux), Pessac, France	d.dupuy@iecb.u-bordeaux.fr
+DUP	sam	Dustin L Updike	Mount Desert Island Biological Laboratory, ME 	dupdike@mdibl.org
+DV	re	David J Reiner	Texas A&M Health Science Center, Houston TX	dreiner@ibt.tamhsc.edu
+DVG	ocb	David Vilchez	CECAD-University of Colongne, Cologne, Germany	dvilchez@uni-koeln.de
+DW	dw	Simon J Boulton	ICRF Clare Hall, South Mimms, UK	simon.boulton@crick.ac.uk
+DWF		Diana Harrison Wall	Colorado State University, Fort Collins CO	freckman@picea.cnr.colostate.edu
+DWP	ups	David William Pruyne	SUNY-UMU, Syracuse NY	pruyned@upstate.edu
+DX	hr	Danielle R Hamill	Ohio Wesleyan University, Delaware OH	
+DY	bh	Bhagwati P Gupta	McMaster University, Hamilton, Canada	
+DYG	fkt	Duygu Yucel	Erciyes University, Kayseri, Turkey	duyguyucel@erciyes.edu.tr
+DZ	ez	David A Zarkower	University of Minnesota, Minneapolis MN	zarkower@gene.med.umn.edu
+EA	ls	Eric James Aamodt	LSUMC, Shreveport LA	eaamod@nomvs.lsumc.edu
+EAB	mch	Edgar Arnold Buttner	Pharmacogenomics Section, Molecular Pharmacology Labs, Departments of Neurology and Psychiatry, Mailman Research Center, McLean Hospital/Harvard Medical School, 115 Mill St. Belmont, MA 02478, USA.	nbuttner@gmail.com
+EAG		David Breckenridge	Florida Institute of Technology, Melbourne, FL	eguisbert@fit.edu
+EAH	bru	Elissa A Hallem	UCLA, Los Angeles CA	hallem@microbio.ucla.edu
+EAK	eee	Elise A Kikis	University of the South, Sewanee, TN	eakikis@sewanee.edu
+EB	dz	Hannes Erich Buelow	Albert Einstein College of Medicine, Bronx NY	hbuelow@aecom.yu.edu
+EC	ee	Ekkehard Schulze	University of Gottingen, Gottingen, Germany	eschulz@gwdg.de
+ECA	ean	Erik Christian Andersen	Northwestern University, Evanston IL	 erik.andersen@northwestern.edu
+ECD		Eileen Devaney	University of Glasgow, Glasgow, Scotland	e.devaney@vet.gla.ac.uk
+ED	mb	Mark Lyon Blaxter	Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK	mark.blaxter@ed.ac.uk
+EDC	ibb	Esther Dalfo Capella	IDIBELL, Barcelona, Spain	
+EE	up	Elizabeth Bucher	University of Pennsylvania, Philadelphia PA	bucher@mail.med.upenn.edu
+EEG	mud	Elizabeth Eve Glater	Harvey Mudd College, Clarement CA	Elizabeth_Glater@hmc.edu
+EEV		Henrique Teotonio	Institut de Biologie de l'Ecole Normale Superieure, Paris, France	teotonio@biologie.ens.fr
+EF	ab	Edwin Louis Ferguson	University of Chicago, Chicago IL	esonth@midway.uchicago.edu
+EFS	lan	Eugene F. Schuster	University College London, London, England	e.schuster@ucl.ac.uk
+EG	ox	Erik Mathias Jorgensen	University of Utah, Salt Lake City UT	jorgensen@biology.utah.edu
+EH	lw	Jocelyn E. Shaw	University of Minnesota, St. Paul MN	jocelyn@biosci.cbs.umn.edu
+EHC	ehc	Ehud Cohen	Hebrew University, Jerusalem, Israel	ehudc@ekmd.huji.ac.il
+EJ	dx	Eric J Lambie	Ludwig-Maximilians-University, Munich, Germany	lambie@biologie.uni-muenchen.de
+EJP	vua	Erwin J.G. Peterman	VU University Amsterdam, Amsterdam, The Netherlands	e.j.g.peterman@vu.nl
+EJR	iub	Erik J Ragsdale	Indiana University, Bloomington, IN	ejragsda@indiana.edu
+EK	cm	Eric Kandel	Columbia University, New York NY	wr72@columbia.edu
+EKM	cld	Gyorgyi Csankovszki	University of Michigan, Ann Arbor MI	gyorgyi@umich.edu
+EKN	ocu	Eriko Kage-Nakadai	Osaka City Inoversity, Osaka, Japan	nakadaie@ocarina.osaka-cu.ac.jp
+EL	om	Eleanor M Maine	Syracuse University, Syracuse NY	emmaine@syr.edu
+ELG		Elodie Ghedin	University of Pittsburgh, Pittsburgh, PA	elg21@pitt.edu
+EM	bx	Scott Wilson Emmons	Albert Einstein College of Medicine, Bronx NY	emmons@aecom.yu.edu
+EMM	res	Edith Margaret Myers	Fairleigh Dickinson University,Department of Biology, 285 Madison Ave, M-SB1-01 Madison, NJ  07940, USA	 emyers@fdu.edu
+EN	kr	Jean-Louis Bessereau	Universite Claude Bernard Lyon 1, Lyon, France	jean-louis.bessereau@univ-lyon1.fr
+ENL	mad	Encarnacion Lozano	Instituto de Salud Carlos III, Madrid, Spain	encarnilozano@gmail.com
+EP	fy	Rory Curtis	Elixir Pharmaceuticals, Cambridge MA	rcurtis@elixirpharm.com
+EPH		Eric Hoberg	ARS USDA, Beltsville MD	
+EQ	iq	Ao-Lin Allen Hsu	University of Michigan, Ann Arbor MI	aolinhsu@med.umich.edu
+ER	jd	Walter William Walthall	Georgia State University, Atlanta GA	biowww@panther.gsu.edu
+ERC	ers	Sevinc Ercan	New York University, NY	se71@nyu.edu
+ERL	opy	Erel Levine	Harvard  University, Cambridge MA	elevine@fas.harvard.edu
+ERT	jy	Emily Ruth Troemel	Biological Sciences, UCSD, San Diego CA	
+ES	kg	Einhard Schierenberg	University of Cologne, Germany	eschier@novell.biolan.uni-koeln.de
+ESZ	uab	Elizabeth Sztul	University of Alabama, Birmingham AL	esztul@uab.edu
+ET	ek	Edward T. Kipreos	University of Georgia, Athens GA	ekipreos@cb.uga.edu
+EU	or	Bruce Alan Bowerman	University of Oregon, Eugene OR	bbowerman@molbio.uoregon.edu
+EV	ef	Christian Reinhold Eckmann	Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany	christian.eckmann@genetik.uni-halle.de
+EVG	heb	Einav Gross	Hebrew University of Jerusalem, Jerusalem, Israel	
+EVL	lh	Brian Douglas Ackley	University of Kansas, Lawrence, KS
+	bdackley@ku.edu
+EW	de	David Michael Eisenmann	UMBC, Baltimore, MD	eisenman@umbc.edu
+EX	ex	Tae Ho Shin	Baylor College of Medicine, Houston TX	tshin@bcm.tmc.edu
+EY	ey	Ann E. Ehrenhofer-Murray	MPI Molecular Genetics, Berlin, Germany	
+EZ	vv	Monique Claire Zetka	McGill University, Montreal, Canada	
+EZE	elg	Eric Lieberman Greer	Harvard Medical School, Boston, MA	eric.greer@childrens.harvard.edu 
+FA	af	Anne Spang	University of Basel, Switzerland	anne.spang@tuebingen.mpg.de
+FAD	cwu	Lucinda Carnell	Central Washington University, Ellensburg WA	carnelll@cwu.edu
+FAM	hmr	Frederick Antoine Mallette	Centre de Recherche de l'Hpital Maisonneuve-Rosemont, Montreal, Canada	fa.mallette@umontreal.ca
+FAS	uge	Florian A Steiner	University of Geneva, Geneva, Switzerland	Florian.Steiner@unige.ch
+FB	fb	Robin C May	University of Birmingham, Birmingham, UK	r.c.may@bham.ac.uk
+FC	zz	William A Mohler	University of Connecticut, Farmington CT	wmohler@neuron.uchc.edu
+FCS	asc	Frank C Schroeder	Cornell University, Ithaca NY	fs31@cornell.edu
+FD	qe	Thomas Francis Duchaine	McGill University, Montreal, Canada	thomasduchaine@mac.com
+FDU	shc	Zhiyong Shao	Fudan University Institutes of Brain Science, Shanghai, China	shaozy@fudan.edu.cn
+FDX	ses	Federico Sesti	Rutgers University, Piscataway, NJ	sestife@rutgers.edu
+FE	fz	Nils Joakim Faergeman	University of South Denmark, Odense, Denmark	nils.f@bmb.sdu.dk
+FED	cau	Frank Doering	University of Kiel, Kiel, Germany	
+FF	f	Danielle Thierry-Mieg	NCBI, Bethesda MD	mieg@crbm.cnrs-mop.fr
+FG	ud	Denise M Ferkey	University at Buffalo	dmferkey@buffalo.edu
+FGP	fgp	Ronald T Hay	University of Dundee, Dundee, UK	r.t.hay@dundee.ac.uk
+FH	ec	Philip Mark Meneely	Haverford College, Haverford PA	pmeneely@haverford.edu
+FJ	pz	Peter Juo	Tufts University, Boston, MA	
+FJJ	fjj	Fredric J. Janzen	Iowa State University, Ames IA	fjanzen@iastate.edu
+FK	ks	Yasumi Ohshima	Sojo University, Ikeda, Kumamoto-city, Japan	ohshima@life.sojo-u.ac.jp
+FL	df	Gregoire Michaux	Universite de Rennes, Rennes, France	gregoire.michaux@univ-rennes1.fr
+FM	du	Francis John McNally	University of California, Davis CA	
+FN	fn	Fern Paula Finger	Rensselaer Polytechnic Institute, Troy NY	
+FP	ip	Francesc Palau	Institut de Biomedicina, Valencia, Spain	
+FQ	wz	Niels Ringstad	Molecular Neurobiology Program, The Skirball Institute of Biomolecular Medicine, NYU Medical Center, 540 First Avenue,New York City, NY 10016. USA	Niels.Ringstad@med.nyu.edu
+FR	sw	Fritz Mueller	University of Fribourg, Fribourg, Switzerland	fritz.mueller@unifr.ch
+FS	tf	Tom Roberts	Florida State University, Tallahassee FL	
+FT	xn	Jeremy Franklin Nance	Skirball Institute of Biomolecular Medicine	
+FU	yq	Chonglin Yang	Chinese Academy of Sciences, Beijing, China	clyang@genetics.ac.cn
+FUH	mar	Franz-Ulrich Hartl	Max-Planck Institute, Martinsried, Germany	uhartl@biochem.mpg.de
+FV	jar	Joseph A. Ross	California State University, Fresno CA	jross@csufresno.edu
+FW	qb	Weiqing Li	University of Washington, Seattle WA	weiqing@u.washington.edu
+FX	tm	Shohei Mitani	Tokyo Women's Medical College, Tokyo, Japan	mitani1@research.twmc.ac.jp
+FY	gr	Bruce Allen Bamber	University of Toledo, Toledo, OH	bruce.bamber@utoledo.edu
+FZ	bj	Johannes L Bos	Utrecht University, Utrecht, The Netherlands	G.J.T.Zwartkruis@emed.uu.nl
+GA	wu	David Herbert Gems	University College, London, UK	dgems@galton.ucl.ac.uk
+GAL	mat	Matilde Galli	Hubrecht University, Utrecht, The Netherlands	m.galli@hubrecht.eu
+GB	sf	Guy M Benian	Emory University, Atlanta GA	pathgb@bimcore.emory.edu
+GBG		Gaetan Borgonie	Universiteit Gent, Gent, Belgium	
+GC	na	E. Jane Albert Hubbard	New York University, New York NY	jane.hubbard@nyu.edu
+GCP	prt	Ana X Carvalho	IBMC, Porto, Portugal	rgassmann@ibmc.up.pt
+GCU	gcu	Jean Michele Parry	Georgian Court University, Lakewood, NJ	jparry@georgian.edu
+GD	iv	Jeffrey Gaudet	University of Calgary, Calgary, Canada	
+GE	t	Ralf Schnabel	TU Braunschweig, Braunscshweig, Germany	r.schnabel@tu-bs.de
+GF	dg	Danielle A Garsin	University of Texas, Houston TX	Danielle.A.Garsin@uth.tmc.edu
+GG	g	Gunter von Ehrenstein	MPI, Gottingen, Germany	
+GH	kx	Greg John Hermann	Lewis and Clark College, Portland OR	
+GIN	gin	Andres Aguilera	CAMIMER, Sevilla, Spain	aguilo@us.es
+GJ	gj	Gert Jansen	Erasmus University, Rotterdam, The Netherlands	jansen@ch1.fgg.eur.nl
+GJH	wsg	Gregory J Hannon	Cold Spring Harbor Laboratory, Cold Spring Harbor, NY	hannon@cshl.edu
+GK	dk	Ken Sato	Gunma University, Gunma, Japan	sato-ken@showa.gunma-u.ac.jp
+GKC	uae	Kristin C Gunsalus	New York University, NY	kcg1@nyu.edu
+GL	rf	Gordon J Lithgow	Buck Institute, Novato CA	glithgow@buckinstitute.org
+GLS		George L. Sutphin	The Jackson Laboratory, Bar Harbor, ME	sutphin@gmail.com""
+GM	pv	Manuel J Munoz	Universidad Pablo de Olavide, Seville, Spain	
+GMC	gmc	Gawain McColl	MHRI, Parkville, Victoria, Australia	gmccoll@mhri.edu.au
+GMW	eor	Eyleen Jorgelina O'Rourke	University of Virginia, Charlottesville VA	ejo8b@virinia.edu
+GN	pg	Miriam B. Goodman	Stanford University, Stanford CA	
+GNE		Gerard Manning	Genentech, South San Fransisco, CA	manning@manninglab.org
+GNW	snx	Tim Schedl	GNW, Washington University, St. Louis MO	genenames@wormbase.org
+GOT	raw	Gautam Kao	University of Gothenburg, Goteborg, Sweden	gautam.kao@gu.se
+GOU	cas	Guangshuo Ou	Tsinghua University, Beijing, China	guangshuo.ou@gmail.com
+GP	fa	Garth I Patterson	Rutgers University, Piscataway NJ	patterson@waksman.rutgers.edu
+GQ	gz	Stefan Eimer	European Neuroscience Institute, Goettingen, Germany	seimer@gwdg.de
+GR	mg	Gary B Ruvkun	Massachusetts General Hospital, Boston MA	ruvkun@frodo.mgh.harvard.edu
+GRN	kez	Vida A Praitis	Grinnell College, Grinnell IA	praitis@grinnell.edu
+GS	ar	Iva Greenwald	Columbia University, New York NY	iva.columbia@gmail.com
+GSH	hzh	Ge Shan	Huazhong University, Wuhan, China	shange@mail.hust.edu.cn
+GSX	ktn	Kazuya Nomura	Kyushu University, Fukuoka, Japan	knomuscb@kyushu-u.org
+GT	a	Hang Lu	Georgia Institute of Technology, Atlanta GA	hang.lu@chbe.gatech.edu
+GU	ng	Giuseppe Cassata	IFOM, Milano, Italy	
+GUN	mew	Gunther Hollopeter	Cornell University, Ithaca, NY	gh383@cornell.edu
+GV	uz	Barbara J Graves	University of Utah, Salt Lake City, UT	Barbara.Graves@hci.utah.edu
+GW	gw	Susan M Gasser	Friedrich Miescher Inst., Basel, Switzerland	
+GWJ		George Walter Joshua	LSHTM, London, UK	g.joshua@lshtm.ac.uk
+GX	sk	Christopher A Shelton	SKB Pharmaceuticals, King of Prussia PA	Christopher_A_Shelton@sbphrd.com
+GXW	gxw	Guo-Xiu Julie Wang	Huazhong Normal University, Wuhan, China	wangguoxiu@hotmail.com
+GY	fh	Fred Kurt Hagen	University of Rochester, Rochester NY	fred_hagen@urmc.rochester.edu
+GZ	is	Pierre Gonczy	ISREC, Lausanne, Switzerland	Pierre.Gonczy@isrec.unil.ch
+HA	rt	Anne Church Hart	Dept  Neuroscience, Brown University, 60 Olive Street, SFH458, Mailbox GL-N, Providence RI 02912.USA.	anne_hart@brown.edu 
+HAH	blm	Heather Ann Hundley	Indiana University, Bloomington IN	hahundle@indiana.edu
+HAL	emc	Hannes Lans	Erasmus MC, Rotterdam, The Netherlands	w.lans@erasmusmc.nl
+HB	jw	Howard Andrew Baylis	University of Cambridge, Cambridge, UK	hab@mole.bio.cam.ac.uk
+HBR	goe	Henrik Philipp Bringmann	MPI Biophysical Chemistry, Goettingen, Germany	henrik.bringmann@mpibpc.mpg.de
+HC	qt	Craig P Hunter	Harvard University, Cambridge MA	hunter@biosun.harvard.edu
+HCC	hw	Nancy N Huang	The Colorado College, Biology Department, 14 East Cache La Poudre Street, Colorado Springs, CO 80903, USA	Nancy.Huang@ColoradoCollege.edu
+HCX	bos	Howard Chia-Hao Chang	Binghamton University, Binghamton NY	hchang@binghamton.edu
+HD	yd	Walter Fontana	Harvard Medical School, Boston MA	walter@hms.harvard.edu
+HDW	hdw	Horng-Dar Wang	National Tsing Hua University, HsinChu, Taiwan	hdwang@life.nthu.edu.tw
+HE	su		Baylor College of Medicine, Houston TX	hepstein@bcm.tmc.edu
+HF	ow	Soeren-Peter Olesen	Univ of Copenhagen, Copenhagen, Denmark	spo@mfi.ku.dk
+HFW	hcf	Helder C Ferreira	University of St Andrews, Fife, Scotland	hcf2@st-andrews.ac.uk
+HG	yw	David L. Wilson	University of Miami, Coral Gables FL	dwilson@umiami.ir.miami.edu
+HGA	lyn	Hugo Aguilaniu	ENS de Lyon, Lyon, France	
+HH	hs	Ralph M. Hecht	University of Houston, Houston TX	rhecht@uh.edu
+Hiroshima University; Higashi-Hiroshima, Japan				
+HIW	ihk	Hiroaki Iwasa	Tokyo Medical and Dental University, Tokyo, Japan	hiwasa.mmch@tmd.ac.jp
+HJ	zn	Hwai-Jong Cheng	University of California, Davis CA	
+HK	kh			
+HKK	cim	Hongkyun Kim	Rosalind Franklin University, North Chicago IL	hongkyun.kim@rosalindfranklin.edu
+HL	jm	Masako Asahina	Inst. Parasitology, Branisovska, Czech Republic	masako@paru.cas.cz
+HM		Hugh M Robertson	University of Illinois, Urbana IL	hughrobe@life.uiuc.edu
+HML	csh	Christopher Martin Hammell	Cold Spring Harbor Labs, Cold Spring Harbor NY	chammell@cshl.edu
+HMZ	sda	Huimin Zhang	IBMS, Soochow University, Suzhou, China	zhanghuimin@suda.edu.cn
+HN	lv	Laura Gene Vallier	Hofstra University, Hempstead NY	
+HNC	fda	Hediye Nese Cinar	Food & Drug Administration, Laurel MD	Hediye.Cinar@fda.hhs.gov
+HP	pd	Neil A. Hopper	University of Southampton, Southampton, UK	
+HQ	bf	John M Kalb	Canisius College, Buffalo NY	kalbj@canisius.edu
+HR	sb	Paul E. Mains	University of Calgary, Calgary, Canada	mains@acs.ucalgary.ca
+HRN	aus	Hannah R Nicholas	University of Sydney, Sydney, Australia	hannah@mmb.usyd.edu.au
+HRT	frm	Takaaki Hirotsu	Kyushu University, Fukuoka, Japan	hirotsu.takaaki.056@m.kyushu-u.ac.jp
+HRW	gva	Howard Riezman	University of Geneva, Geneva, Switzerland	Howard.Riezman@unige.ch
+HS	os	Hitoshi Sawa	National Institute of Genetics, Mishima, Japan	hisawa@lab.nig.ac.jp
+HSD		Harbinder Singh Dhillon	Delaware State University, Dover, DE	harbinder.s@gmail.com
+HST	uot	Hiroshi Suzuki	University of Toronto, Toronto, Canada	hiroshi.suzuki@utoronto.ca
+HT	lp	Heidi A Tissenbaum	University of Massachusetts, Worcester MA	heidi.tissenbaum@umassmed.edu
+HTN		Hitoshi Nishimura	Setsunan University, Osaka, Japan	nishimura@lif.setsunan.ac.jp
+https://www.liv.ac.uk/integrative-biology/staff/olga-vasieva/				
+HTU	aij	Haijun Tu	Hunan University, Hunan, China	haijuntu@hnu.edu.cn
+HU	jv	Jacob P Varkey	Humboldt State University, Arcata CA	jpv1@axe.humboldt.edu
+HUS	ycx	Anbing Shi	HUST, Wuhan, China	ashi@hust.edu.cn
+HV	ps	Wendy Hanna-Rose	Penn State, University Park PA	wxh21@psu.edu
+HW	xe	Helge Grosshans	Friedrich Miescher Inst, Basel, Switzerland	helge.grosshans@fmi.ch
+HX	eh		Wellcome Trust Sanger Institute, Cambridge UK	rd@sanger.ac.uk
+HY	ye	Raffi Van Aroian	UCSD, La Jolla CA	raroian@ucsd.edu
+HZ	bp	Hong Zhang	No.7, Science Park Road,	zhanghong@nibs.ac.cn
+IA	ij	Iain Lindsay Johnstone	University of Glasgow, Scotland	i.johnstone@udcf.gla.ac.uk
+IB	np	Jean-Francois Brunet	IBDM, Marseille, France	brunet@ibdm.univ-mrs.fr
+IBP	crs	Runsheng Chen	Chinese Academy of Sciences, Beijing, China	crs@sun5.ibp.ac.cn
+IBW		Iain B H Wilson	Universitaet fuer Bodenkultur, Vienna, Austria	mark.alkema@umassmed.edu
+IC	qu	Ian D Chin-Sang	Queen's University, Kingston ON, Canada	
+ICF	iwf	Montserrat Porta de la Riva	IDIBELL, Barcelona, Spain	mporta@idibell.cat
+ID	ig	Christian Neri	Centre Paul Broca, INSERM, Paris, France	neri@broca.inserm.fr
+IE	tt	Nektarios Nikos Tavernarakis	NEMAGENETAG Consortium, IMBB, Heraklion, Crete, Greece	ntavernarakis@gmail.com
+IF	if	Gregg D. Jongeward	University of the Pacific, Stockton CA	
+IFM	bch	Iskra Katic	Friedrich Miescher Institute, Basel, Switzerland	iskra.katic@fmi.ch
+IFP	npb	Juergen Christian Hans Hench	Institute of Pathology, Basel, Switzerland	mtolnay@uhbs.ch
+IG	fr	Jonathan J Ewbank	Centre d'Immunologie, Marseille, France	ewbank@ciml.univ-mrs.fr
+IH	ciu	Gustavo Salinas	Catedra de Imunologia, Montevideo, Uruguay	gsalin@fq.edu.uy
+IJ	yh	Seung-Jae V Lee	POSTECH, Pohang, South Korea	seungjaelee1@gmail.com
+IK	nj	Ikue Mori	Nagoya University, Nagoya, Japan	m46920a@nucc.cc.nagoya-u.ac.jp
+IL	mv	Landon L Moore	Oklahoma Christian University, Edmond, OK	landon.moore@oc.edu
+IM	ur	William G Wadsworth	UMDNJ, Piscataway NJ	wadswort@umdnj.edu
+IMN	cny	Itzhak Mano	City University of New York, New York NY	imano@ccny.cuny.edu
+IN	dt	James A Waddle	UTSW Medical Center, Dallas TX	jwaddle@hamon.swmed.edu
+INV	som	David Biron	University of Chicago, Chicago IL	david.biron@gmail.com
+IP	nb	Yinhua Zhang	New England Biolabs, Ipswich MA	nelson@neb.com
+IPE	kaz	Marat Khamitovich Gainutdinov	Research Inst,Tatarstan Academy of Sciences,Lab of Experimental Ecology, Daurskaya str., 28, Kazan, Russian Federation, 420087	mgainutdinov@nm.ru
+IQ	ih	Iqbal Hamza	University of Maryland, College Park MD	
+IR	uv	Nektarios Nikos Tavernarakis	IMBB, Heraklion, Crete, Greece	ntavernarakis@gmail.com
+IS	fp	Sophie Jarriault	IGBMC, Strasbourg, France	sophie@igbmc.u-strasbg.fr
+IT	kp	Kuppuswamy Subramaniam	Indian Institute of Technology, Kanpur, India	
+IU	rw	Siu Sylvia Lee	Cornell University, Ithaca NY	
+IV	ue	Sreekanth H Chalasani	The Salk Institute, La Jolla CA	schalasani@salk.edu
+IW	iw	Jiou Wang	Dept. of Biochemistry and Molecular Biology, Bloomberg School of Public Health, Johns Hopkins University,  615 N. Wolfe Street  Room E8628, Baltimore, MD 21205, USA.	jiouw@jhmi.edu
+IWM	iam	Iain W Mattaj	EMBL, Heidelberg, Germany	mattaj@embl-heidelberg.de
+IX	vy	Chiou-Fen Chuang	University of Illinois at Chicago, Chicagi, IL	chioufen@uic.edu
+IY	yu	Lars Dreier	UCLA, Los Angeles CA	
+IZ	uf	Michael M Francis	University of Massachusetts, Worcester MA	michael.francis@umassmed.edu
+JA	we	Julie Ahringer	University of Cambridge, Cambridge, England	jaa@mole.bio.cam.ac.uk
+JAB	erb	Joshua N Bembenek	University of Tennessee, Knoxville TN	bembenek@utk.edu
+JAC	csb	John Anthony Calarco	Harvard University, Cambridge MA	jcalarco@fas.harvard.edu
+JAS	jg	Jaegal Shim	National Cancer Center, Goyang, Korea	jaegal@ncc.re.kr
+JAZ	jlg	Jennifer L Garrison	Buck Institute, Novato CA	jgarrison@buckinstitute.org
+JB		James Gordon Baldwin	UC Riverside, Riverside CA	james.baldwin@ucr.edu
+JBC	jbc	Jill Bargonetti	Hunter College and The Graduate Center,City University of New York, 695 Park Ave. Room 942HN, New York NY 10065, USA	bargonetti@genectr.hunter.cuny.edu
+JBL	ton	Christian Lanctot	Charles University in Prague, Czech Republic	christian.lanctot@lf1.cuni.cz
+JC	ut	Isao Katsura	National Inst. of Genetics, Mishima, Japan	ikatsura@lab.nig.ac.jp
+JCB	bet	Jill C Bettinger	Virginia Commonwealth University, Richmond VA	jcbettinger@vcu.edu
+JCC	jcc	Julie C Canman	Columbia University Medical Center, New York NY	jcc2210@columbia.edu
+JCM	gnv	Jean-Claude Martinou	University of Geneva, Geneva, Switzerland	
+JCP	jcp	Juan Cabello	CIBIR, Logrono, Spai	juan.cabello@riojasalud.es
+JCW	tpe	Jui-ching Wu	National Taiwan University, Taipei, Taiwan	juichingwu@ntu.edu.tw
+JD	vu	Joseph Alan Dent	McGill University, Montreal, Canada	jdent@po-box.mcgill.ca
+JDH	hjd	Jackie Han	Shanghai Institutes of Biological Sciences, Shanghia, China	jackie.jdhan@gmail.com
+JDK	kor	Jay Dene Kormish	niversity of Manitoba, Winnipeg, Canada	kormisjd@cc.umanitoba.ca
+JDL	jlb	Jason Dillon Lieb	Unoversity of Chicago, Chicago, IL	jdlieb@uchicago.edu
+JDU	ijm	Julien Dumont	Institut Jacques Monod, Paris, France	dumont@ijm.univ-paris-diderot.fr
+JE	mw	Jean E. Schwarzbauer	Princeton University, Princeton NJ	jschwarz@princeton.edu
+JED	jdk	Jonathan Dworkin	Columbia University, New York NY	jonathan.dworkin@columbia.edu
+JEK	kar	Jonathan E. Karpel	Southern Utah University, Cedar City, UT	jonathankarpel@suu.edu
+JEP	jep	Jacques Pecreaux	IGDR, Rennes, Fran	jacques.pecreaux@univ-rennes1.fr
+JES	ijp	Julien Espeut	CRBM-CNRS, Montpellier, France	julien.espeut@crbm.cnrs.fr
+JF	mt	Jonathan H Freedman	University of Louisville School of Medicine, Louisville, KY	freedma1@niehs.nih.gov
+JFM	gec	Douglas S Kim	HHMI Janelia Farm Research Campus, Ashburn VA	kimd@janelia.hhmi.org
+JG	vp	John Stuart Gilleard	University of Calgary, Calgary, Alberta, Canada	jsgillea@ucalgary.ca
+JGG	jgr	Johannes Grillari	University of Natural Resources, Vienna, Austria	johannes.grillari@boku.ac.at
+JH	ax	Geraldine C Seydoux	Johns Hopkins University, Baltimore MD	gseydoux@jhmi.edu
+JHU	his	Xin Chen	Johns Hopkins University, Baltimore, MD	xchen32@jhu.edu
+JIM	uj	John Isaac Murray	University of Pennsylvania, Philadelphia PA	jmurr@mail.med.upenn.edu
+JIN	jin	Javier Elbio Irazoqui	Dept. of Pediatrics,Massachusetts General Hospital, Harvard Medical School, 55 Fruit St. GRJ1416. Boston, MA 02114. USA.	javier@molbio.mgh.harvard.edu
+JIP	bln	Thomas Boulin	niversite Claude Bernard Lyon 1, Lyon, France	boulin@biologie.ens.fr
+JJ	zu	James R Priess	FHCRC, Seattle WA	jpriess@fhcrc.org
+JJA	fin	Jussi Jantti	University of Helsinki, Helsinki, Finland	jussi.jantti@helsinki.fi
+JK	q	Judith Kimble	University of Wisconsin, Madison WI	jekimble@facstaff.wisc.edu
+JKA	bfy	Jamie K Alan	Central Michigan University, Mount Pleasant MI	alan1jk@cmich.edu
+JKM		Janine Kirstein-Miles	Leibniz Institute for Molecular Pharmacology, Berlin, Germany	kirstein-miles@fmp-berlin.de
+JL	fm	James L Lissemore	John Carroll Univ., University Heights, OH	jlissem@jcvaxa.jcu.edu
+JLF	wow	Jessica L. Feldman	Stanford University, CA	feldmanj@stanford.edu
+JLG	wec	Jamie S Lyman-Gingerich	Jamie University of Wisconsin, Eau Claire WI	lymangjs@uwec.edu
+JM	ca	James Douglas McGhee	University of Calgary, Calgary, Canada	mcghee@acs.ucalgary.ca
+JMC	tor	Julie M Claycomb	University of Toronto, Toronto ON, Canada	julie.claycomb@utoronto.ca
+JMT	ukc	Jennifer Marie Anne Tullet	University of Kent, Kent, England	J.M.A.Tullet@kent.ac.uk
+JN	pe	Yuichi Iino	University of Tokyo, Tokyo, Japan	iino@hgc.ims.u-tokyo.ac.jp
+JNC	dot	Jack Nansheng Chen	Simon Fraser University, Burnaby BC, Canada	chenn@sfu.ca
+JP	gn	Gregory A Nelson	Jet Propulsion Laboratory, Pasadena CA	gnelson@dominion.llumc.edu
+JPC	jca	Jason P Chan	Juniata College, Huntingdon PA	CHAN@juniata.edu
+JPM	sal	Jose Perez-Martin	Instituto de Biologia Funcional y Genomica CSIC, Salamanca, Spain	jose.perez@csic.es
+JPS	vx	Jonathan T Pierce-Shimomura	University of Texas, Austin TX	jonps@mail.utexas.edu
+JQ	iu	Kentaro Nabeshima	University of Michigan, Ann Arbor MI	knabe@umich.edu
+JR	w	Joel H. Rothman	UC Santa Barbara, Santa Barbara CA	rothman@lifesci.lscf.ucsb.edu
+JRK	kjr	Jennifer R. Kowalski	Biological Sciences, Butler University, 4600 Sunset Avenue, Gallahue Hall 263, Indianapolis, IN 46208, USA	jrkowals@butler.edu
+JRM	mla	Jeffrey R. Martens	University of Michigan, Ann Arbor MI	martensj@umich.edu
+JRP	zv	Jennifer R. Powell	Dept Biology, Gettysburg College, 300 N. Washington Street, Gettysburg, PA  17325. USA.	
+JRS	sun	Jingru Sun	Washington State University, Spokane, WA	Jingru.sun@wsu.edu
+JRW	ccc	Jennifer Ross Wolff	Carleton College, Northfield MN	jwolff@carleton.edu
+JS	vw	Jill M Schumacher	University of Texas, Houston TX	schumacherj@mail.ncifcrf.gov
+JSD	tau	Jeremy S Dittman	Cornell University Medical College, New York NY	jed2019@med.cornell.edu
+JSR	wor	Jagan Srinivasan	Worcester Polytechnic Institute, Worcester MA	jsrinivasan@wpi.edu
+JT	sa	James Horsfall Thomas	University of Washington, Seattle WA	jht@genetics.washington.edu
+JU	mf	Marie-Anne Felix	Institute of Biology of Ecole Normale Superieure, Paris, France	felix@biologie.ens.fr
+JUP	cur	Julie Plastino	Institut Curie, Paris, France	julie.plastino@curie.fr
+JV	jr	Jacques R Vanfleteren	University of Gent, Gent, Belgium	jacques.vanfleteren@rug.ac.be
+JVR	jer	Jeremy Michael Van Raamsdonk	Van Andel Research Institute, Grand Rapids MI	Jeremy.VanRaamsdonk@vai.or
+JW	je	Jeffrey C. Way	Fuji ImmunoPharmaceuricals, Lexington MA	jeffrey.way@mail.fujipharm.com
+JX	xj	James Donald Lechleiter	University of Texas, San Antonio TX	
+JY	yz	Ji Ying Sze	Albert Einstein College of Medicine, Bronx, NY	jsze@aecom.yu.edu
+JZ	py	Noelle Dominique L'Etoile	UCSF, San Francisco, CA	noelle.letoile@ucsf.edu
+JZF	kbl	Zhaoyang Feng	Case Western Reserve University, Cleveland OH	john.feng@case.edu
+KA	lk	Kathy Ann Suprenant	University of Kansas, Lawrence KS	ksupre@eagle.cc.ukans.edu
+KAE	sea	Matt Kaeberlein	University of Washington, Seattle, WA	kaeber@uw.edu
+KAG	kag	Kathrin Gieseler	Universite Claude Bernard - Lyon I, Centre de Genetique Moleculaire et Cellulaire - CNRS UMR 5534,La DOUA - Bat. Gregor Mendel 5e etage, 16 rue Dubois, 69622 Villeurbanne cedex, FRANCE	
+KAM	kam	Khaled A Machaca	Weill Cornell Medical College, Doha, Qatar	rpk2002@qatar-med.cornell.edu
+KB	um	Karen L. Bennett	University of Missouri, Columbia MO	bennettk@missouri.edu
+KC	wx	King Lau Chow	HKUST, Hong Kong	bokchow@hkust.ust.hk
+KCG		Kirsten Crossgrove	University of Wisconsin, Whitewater, WI	kcrossgrove@loyola.edu
+KD	ej	Jonathan Michael Scholey	University of California, Davis CA	jmscholey@ucdavis.edu
+KDK	osk	Kotaro D Kimura	Osaka University, Osaka, Japan	kokimura@bio.sci.osaka-u.ac.jp kokimura-lab@umin.ac.jp
+KE	ha	Kaye Edwards	Haverford College, Haverford PA	k_edwards@acc.haverford.edu
+KF	rx	Ken-ichi Kariya	University of the Ryukyus, Okinawa, Japan	
+KG	ce	Ken George Miller	OMRF, Oklahoma City OK	millerk@omrf.ouhsc.edu
+KH	yb	Hidehito Kuroyanagi	Tokyo Medical & Dental Univ, Tokyo, Japan	
+KHA	chu	Koichi Hasegawa	Chubu University, Kasugai, Japan	hasegawaelegans@hotmail.com
+KHK	lsk	Kyuhyung Kim	DGIST, Daegu, Korea	khkim@dgist.ac.kr
+KHR	dra	Atsushi Kuhara	Konan University, Kobe, Japan	kuhara@center.konan-u.ac.jp
+KIR	stn	Kirsten Ann Hagstrom	University of Massachusetts, Worcester MA	kirsten.hagstrom@umassmed.edu
+KJ	jh	Joohong Ahnn	Hanyang University, Seoul, Korea	joohong@hanyang.ac.kr
+KJP	ksu	Taro Sakamoto	Kitasato University, Tokyo, Japan	sakamotot@pharm.kitasato-u.ac.jp
+KK	it	Kenneth James Kemphues	Cornell University, Ithaca NY	kjk1@cornell.edu
+KL		Karl Emanuel Busch	University of Edinburgh, Edinburgh, Scotland	emanual.busch@ed.ac.uk
+KLJ	fau	Kailiang Jia	Florida Atlantic University, Boca Raton FL	kjia@fau.edu
+KLS	gos	Kristopher Lee Schmidt	Goshen College, Goshen IN	kschmidt@goshen.edu
+KLU	mun	Kai Luersen	Christian-Albrechts-University of Kiel, Kiel, Germany	luersen@molprev.uni-kiel.de
+KM	gv	Michael William Krause	NIH, Bethesda MD	mwkrause@helix.nih.gov
+KME	etc	Kevin M Esvelt	Wyss Institute at Harvard Medical School, Boston MA	Kevin.Esvelt@wyss.harvard.edu
+KMW		Katherine M. Walstrom	New College of USF, Sarasota FL	walstrom@ncf.edu
+KN	hu	Hendrik C Korswagen	Hubrecht Lab., Utrecht, The Netherlands	r.korswagen@lab.azu.nl
+KP	nu	Joshua M Kaplan	Massachusetts General Hospital, Boston, MA	kaplan@molbio.mgh.harvard.edu
+KQ	ft	Kaveh Ashrafi	UCSF, San Francisco CA	kaveh.ashrafi@ucsf.edu
+KR	h	Ann Marie Rose	University of British Columbia, Vancouver B.C.	arose@genekit.medgen.ubc.ca
+KRD	aug	Kristin R Douglas	Augustana College, Rock Island IL	kristindouglas@augustana.edu
+KRN	tak	Kenneth R. Norman	Albany Medical College, Albany NY	NormanK@mail.amc.edu
+KRY	kry	Keith R Yamamoto	UCSF, San Francisco CA	yamamoto@cgl.ucsf.edu
+KS	mh	Michael Andrew Herman	Kansas State University, Manhatten KS	mherman@ksu.edu
+KT		William Kelley Thomas	UNH HCGS, Durham NH	Kelley.thomas@unh.edu
+KU	km	Kunihiro Matsumoto	Nagoya University, Nagoya, Japan	g44177a@nucc.cc.nagoya-u.ac.jp
+KV	kv	Marta Kostrouchova	Charles University, Prague, Czech Republic	
+KW	ck	William G Kelly	Emory University, Atlanta GA	bkelly@biology.emory.edu
+KWN	rny	Keith Webster Nehrke	University of Rochester, Rochester NY	
+KX	eu	Brett D Keiper	East Carolina Univ, Greenville NC	keiperb@ecu.edu
+KY	tg	Kouichi Iwasaki	NIBHT, Tsukuba, Japan	iwasaki@nibh.go.jp
+KZ	kj	Kazunori Kondo	Soka University, Tokyo, Japan	kondo@scc1.t.soka.ac.jp
+LA	pf	Bernard Lakowski	Manhattanville College, Purchase, NY	bernard@bclakowski.info
+LB	ua	Bernard Donat Lemire	University of Alberta, Edmonton, Alberta	lem-1@bones.biochem.ualberta.ca
+LC	pa	Curtis Mitchell Loer	University of San Diego, San Diego CA	cloer@acusd.edu
+LD	ld	Keith T Blackwell	Harvard Medical School, Boston MA	
+LE	lq	Erik A Lundquist	University of Kansas, Lawrence KS	elundqst@eagle.cc.ukans.edu
+LEN	mcj	Leonard Petrucelli	Mayo Clinic, Jacksonville FL	Petrucelli.Leonard@mayo.edu
+LF	cf	Douglas Andrew Fantz	Agnes Scott College, Decature, GA	dfantz@agnesscott.edu
+LG	ge	Leonard P Guarente	MIT, Cambridge MA	
+LH	eq	Lihsia Chen	University of Minnesota, St Paul MN	chenx260@umn.edu
+LHU		James Endres Howell	LHUP, Lock Haven PA	
+LIB	kun	Bin Liang	Chinese Academy of Science, Kunming, China	liangb@mail.kiz.ac.cn
+LIU	ldr	Pingsheng Liu	Chinese Academy of Sciences, Beijing, China	pliu@ibp.ac.cn
+LJ	ys	Junho Lee	Seoul National University, Seoul, South Korea	elegans@snu.ac.kr
+LK	gs	James Robert Manser	Harvey Mudd College, Claremont CA	james_manser@hmc.edu
+LKC		Lynn Kay Carta	ARS USDA, Beltsville MD	
+LL	cb	Leo Liu	Cambria Biosciences, Waltham MA	lliu@cambriabio.com
+LM	sd	David B. Sattelle	University College London, London, UK	d.sattelle@ucl.ac.uk
+LMN	ltm	Lesley T MacNeil	McMaster University, Hamilton, Canada	macneil@mcmaster.ca
+LMW	ibp	Long Miao	IBP, Chinese Academy of Sciences, Beijing, China 	lmiao@moon.ibp.ac.cn
+LN	rc	Lynn Boyd	Middle Tennessee State University, Murfreesboro TN	boydl@email.uah.edu
+LNP	pet	Lisa N Petrella	Marquette University, Milwaukee WI	lisa.petrella@marquette.edu
+LP	cp	Bob Goldstein	Univ. of North Carolina, Chapel Hill NC	bobg@unc.edu
+LQ		Lincoln D Stein	Ontario Institute for Cancer Research, Toronto, Ontario, Canada	lincoln.stein@gmail.com
+LR	rk	Luis A. Rokeach	Universite de Montreal, Montreal, Canada	rokeach@ere.montreal.ca
+LRB	duk	Larry Ryan Baugh	Duke University, Durham NC	ryan.baugh@duke.edu
+LRL		Louis Rene Lapierre	Brown University, Providence, RI	 louis_lapierre@brown.edu
+LS	cx	Laurent S. Segalat	Universite of Lyon, Lyon, France	segalat@cgmc.univ-lyon1.fr
+LSC	lst	Liliane Schoofs	Katholieke Universiteit Leuven, Leuven, Belgium	liliane.schoofs@bio.kuleuven.be
+LSD				
+LSJ		Nancy C. Lu	San Jose State University, San Jose CA	
+LT	wk	Richard W Padgett	Waksman Institute, Piscataway NJ	padgett@mbcl.rutgers.edu
+LTM	mgm	Levi Thacker Morran	Emory University, Atlanta, GA	levi.morran@emory.edu  
+LU	lr	Elizabeth Ann De Stasio	Lawrence University, Appleton WI	elizabeth.a.destasio@lawrence.edu
+LV	wc	Lee T. Venolia	Williams College, Williamstown MA	lvenolia@williams
+LW	jj	Jun Liu	Cornell University, Ithaca NY	
+LWA	wle	Lei Wang	The Salk Institute, La Jolla CA	lwang@salk.edu
+LWZ	cuw	Zheng Wang	Huazhong University of Science and Technology, Hubei, China	
+LX	vs	Michael Robert Koelle	Yale University, New Haven CT	michael.koelle@yale.edu
+LY	nf	Lawrence B Salkoff	Washington University, St Louis MO	
+LZ	gx	Giovanni M. Lesa	ICRF, London, England	
+MA	sx	P. Michele Arduengo	Morningside College, Sioux City IA	pma001@alpha.morningside.edu
+MAB	mja	Michael Aschner	Vanderbilt Univ Med Center, Nashville TN	michael.aschner@Vanderbilt.Edu
+MAC	mnh	Patricia Maciel	University of Minho, Braga, Portugal	
+MAD	dq	Ahna Renee Skop	University of Wisconsin, Madison WI	skop@wisc.edu
+MAE	mer	Maria A Ermolaeva	Leibniz Institute for Age Research/Fritz Lipmann Institute (FLI), Jena, Germany	mermolaeva@fli-leibniz.de
+MAH	sq	Malene Hansen	Burnham Institute, La Jolla CA	mhansen@burnham.org
+MAJ	mpg	Monika Anna Jedrusik-Bode	MPI for Bioph Chemistry, Goettingen, Germany	mjedrus@gwdg.de
+MAM	mor	Marcelo Alves Mori	Federal University of Sao Paulo, Brazil	marcelo.mori@unifesp.br
+MAS	abc	Martin A Srayko	University of Alberta, Edmonton, Canada	martin.srayko@ualberta.ca
+MB	ib	Ann Marie Burnell	St. Patrick's College, Maynooth, Ireland	ann.burnell@may.ie
+MBA	icb	Michalis Barkoulas	Imperial College, London, UK 	michalis.barkoulas@gmail.com
+MBM		Matthew Berriman	Wellcome Trust Sanger Institute, Cambridge, UK	mb4@sanger.ac.uk
+MC	gc	C. Michael Crowder	Washington University, St Louis MO	crowderm@morpheus.wustl.edu
+MCP	bab	Maite Carre-Pierrat	Universite Lyon 1, Villeurbanne, France	maite.carre-pierrat@univ-lyon1.fr
+MCR	mcr	Kevin McCoy Drace	Mercer University, Macon, GA 31207-0001,USA	drace_km@mercer.edu
+MCW	rax	Meng C Wang	Baylor College of Medicine, Houston TX	wmeng@bcm.tmc.edu
+MD	bc	Barbara Conradt	Dartmouth College, Hanover NH	barbara.conradt@dartmouth.edu
+MDH	nor	Maria Doitsidou	University of Stavanger, Stavanger, Norway	maria.doitsidou@uis.no
+MDX	mon	Amy Shaub Maddox	University of North Carolina, Chapel Hill, NC	asm@unc.edu
+ME	ae	Eric G Moss	Fox Chase Cancer Center, Philadelphia PA	eg_moss@fccc.edu
+MED		Marcelo Edmundo Doucet	Centro de Zoologica Apl., Cordoba, Argentina	mdoucet@gtwing.efn.uncor.edu
+MEG	mrs	Madeleine Erard-Garcia	Universite de la Mediterranee, Marseille, France	madeleine.garcia@univmed.fr
+MEV		Mark E. Viney	University of Bristol, Bristol, UK	Mark.Viney@bristol.ac.uk
+MF	hm	Millet Treinin	The Hebrew University, Jerusalem, Israel	millet_t@cc.huji.ac.il
+MG	xs	Michael Glotzer	IMP, Vienna, Austria	mglotzer@nt.imp.univie.ac.at
+MGH	alx	Alexander A Soukas	MGH-CHGR, Boston MA	asoukas@gmail.com
+MGL	jlu	Matthew Simon Gill	Scripps Institute, Jupiter FL	
+MGM				
+MH	ku	Min Han	University of Colorada, Boulder CO	mhan@colorado.edu
+MHB	nna	Megan Hwa Brewer	Sydney Medical School, Concord, NSW, Australia	m.brewer@sydney.edu.au
+MHL	ecu	Myon-Hee Lee	East Carolina University, Greenville NC	LEEMY@ECU.EDU
+MIA	key	Kevin Michael Collins	University of Miami, Miami, FL	kcollins@bio.miami.edu
+MIR	ris	Michael Ristow	ETH Zurich, Schwerzenbach, Switzerland	Michael.Ristow@hest.ethz.ch
+MJ	k	Johji Miwa	NEC Fundamental Research Labs, Tsukuba, Japan	miwa@exp.cl.nec.co.jp
+MJB	bas	Michael J Bastiani	University of Utah, Salt Lake City UT	bastiani@bioscience.utah.edu
+MJF	chp	Marni Joy Falk	Children's Hospital of Philadelphia, Philadelphia PA	falkm@email.chop.edu
+MJS	qbc	Martin J Simard	Laval University, Quebec City, Canada	martin.simard@crhdq.ulaval.ca
+MJW		Michael J Wilson	Agresearch, Hamilton, New Zealand	michael.wilson@agresearch.co.nz
+MK	hx	Mike Klass	Abbott Labs, Abbott Park IL	
+MKC	mks	Masaomi Kato	CICMCB, Camperdown, Australia	M.Kato@centenary.org.au
+MKV	iy	Miri K VanHoven	San Jose State Univ, San Jose CA	mkvanhoven@gmail.com
+ML	mc	Michel Labouesse	IGBMC, Strasbourg, France	lmichel@igbmc.u-strasbg.fr
+MLC	luc	Maria Luisa Cochella	IMP, Vienna, Austria	luisa.cochella@imp.ac.at
+MLG	mlg	Diane Gail Morton	Cornell University, Ithaca NY	mlg11@cornell.edu
+MLM		Michelle L Michalski	University of Wisconsin, Oshkosh WI	michalsk@uwosh.edu
+MLU		Ming Luo	University of Alabama, Birmingham AL	mingluo@uab.edu
+MLY		Michael Lynch	Indiana University, Bloomington IN	
+MM	an	Michel Hamelin	Merck Research Labs, Rahway NJ	
+MMH	mcg	Michael Hendricks	McGill University, Montreal, Quebec, Canada	michael.hendricks@mcgill.ca
+MN	mq	Sara E Mole	University College London, London UK	
+MNN	mnn	Michael N. Nitabach	Yale School of Medicine, New Haven, CT	michael.nitabach@yale.edu
+MO				
+MOC	bic	Maria Olivia Casanueva	Babraham Institute, Cambridge, UK	Olivia.Casanueva@babraham.ac.uk
+MOT	tem	Fumio Motegi	National University of Singapore, Singapore	fmotegi@tll.org.sg
+MP	lb	Eve Wolinsky	NYU Medical School, New York NY	woline01@mcrcr6.med.nyu.edu
+MQ	qm	Siegfried Hekimi	McGill University, Montreal, Canada	hekimi@notung.biol.mcgill.ca
+MQD	hq	Meng-Qiu Dong	NIBS, Beijing, P.R. China	dongmengqiu@nibs.ac.cn
+MR	rr	Richard Douglas Roy	McGill University, Montreal, Canada	rroy4@po-box.mcgill.ca
+MRM	mrm	Matthew R. Marcello	Pace University, New York, NY	mmarcello@pace.edu
+MRP	mpt	Maulik R Patel	Vanderbilt University, Nashville, TN	maulik.r.patel@vanderbilt.edu
+MRS	sev	Marta Artal Sanz	CSIC-Universidad Pablo de Olavide, Sevilla, Spain	martsan@upo.es
+MS	ir	Morris Ford Maduro	UC Riverside, Riverside CA	maduro@lifesci.ucsb.edu
+MSC	bkn	Mara Schvarzstein	City University of New York, Brookyln, NY	maraschvarzstein@gmail.com
+MSD	wrm	Martin Sebastian Denzel	Max Planck Institute for Biology of Ageing, Cologne, Germany	MDenzel@age.mpg.de
+MSN	hz	Anjon Audhya	University of Wisconsin, Madison WI	audhya@wisc.edu
+MSU	msu	Masami Suganuma	Saitama Cancer Center, Saitama, Japan	masami@cancer-c.pref.saitama.jp
+MT	n	H. Robert Horvitz	MIT, Cambridge MA	horvitz@mit.edu
+MTU	mhs	Mi Hye Song	 Oakland University, Rochester MI	msong2@oakland.edu
+MU	bw	Bruce C. Wightman	Muhlenberg College, Allentown PA	wightman@muhlenberg.edu
+MV	vm	Marc Vidal	Harvard Medical School, Boston MA	Marc_Vidal@dfci.harvard.edu
+MVG	fhc	Marc R Van Gilst	Fred Hutchinson Cancer Research Center, Seattle, WA	
+MW	wm	Marvin P Wickens	University of Wisconsin, Madison WI	
+MWP		Scott Wilson Emmons	Albert Einstein College of Medicine, Bronx NY	emmons@aecom.yu.edu
+MX	nx	Michel R Leroux	Simon Fraser University, Burnaby BC, Canada	
+MY	ya	Hinrich J.G. Schulenburg	Zoological Institute, University Kiel	hschulenburg@zoologie.uni-kiel.de
+MYP	myp	Mikyoung Park	KIST, Seoul, South Korea	mpark@kist.re.kr
+MZ	mz	Colette M Witkowski	SW Missouri State Univ., Springfield MO	cmw890f@mail.smsu.edu
+MZE	cbg	Marino Zerial	MPI-CBG, Dresden, Germany	zerial@mpi-cbg.de
+NA	gb	Elia Di Schiavi	IBBR, Naples, Italy	elia.dischiavi@ibbr.cnr.it
+NAA	naa	Anders Michael Naar	Harvard Medical School, Charlestown MA	naar@helix.mgh.harvard.edu
+NAM		Hong Gil Nam	Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea	nam@dgist.ac.kr
+NAV	pok	Navin Pokala	New York Institute of Technology, Old Westbury, NY	npokala@gmail.com
+NB	yk	Hyeon-Sook Koo	Yonsei University, Seoul, Korea	
+NBR	shr	Anindya Ghosh Roy	National Brain Research Center (NBRC). Gurgaon, Haryana, India	anindya@nbrc.ac.in
+NC	wd	David Milton Miller	Vanderbilt University, Nashville TN	david_miller@mcmail.vanderbilt.edu
+ND	dy	Nadeem Moghal	Ontario Cancer Institute, Toronto, , ON, Canada	nadeem.moghal@uhnresearch.ca
+NE	rp	Ruth Pertel	FDA, Washington, D.C.	
+NES	cbc	Nathan E Schroeder	University of Illinois Urbana-Champaign, Urbana IL	nes@illinois.edu
+NF	tk	Kiyoji Nishiwaki	Kwansei Gakuin University, Sanda, Japan	nishiwaki@kwansei.ac.jp
+NFB	vlc	Nuria Flames	IBV-CSIC, Valencia, Spain	nflames@ibv.csic.es
+NG	gm	Gian Garriga	University of California, Berkeley CA	garriga@mendel.berkeley.edu
+NH	ay	Michael Joel Stern	 Northeastern Illinois University, Chicago, IL	m-stern2@neiu.edu
+NIC	cgb	Christian Braendle	Institute of Developmental Biology and Cancer,Universite Nice - Sophia Antipolis, Parc Valrose, 06108 Nice cedex 2, France	braendle@unice.fr
+NIK	raj	Nikolaus Rajewsky	Berlin Institute for Medical Systems Biology, Berlin, Germany	rajewsky@mdc-berlin.de
+NIN	pee	Nina Peel	The College of New Jersey, Ewing NJ	peeln@tcnj.edu
+NIS	kyt	Eisuke Nishida	Kyoto University, Kyoto, Japa	L50174@sakura.kudpc.kyoto-u.ac.jp
+NJ	rh	Edward M Hedgecock	Johns Hopkins University, Baltimore MD	
+NK	qy	David Royal Sherwood	Duke University, Durham, NC	david.sherwood@duke.edu
+NKC	mic	Nikolas Chronis	University of Michigan, Ann Arbor MI	chronis@umich.edu
+NKZ	nkz	Natsumi Kanzaki	Forestry and Forest Products research Institute, Ibaraki, Japan	nkanzaki@affrc.go.jp
+NL	pk	Ronald H.A. Plasterk	Hubrecht Laboratory, Utrecht, The Netherlands	
+NM	js	Michael L Nonet	Washington University, St Louis MO	nonetm@thalamus.wustl.edu
+NN	hk	Nancy Caroline Hawkins	Simon Fraser University, Burnaby, Canada	
+NNL	lc			
+NOA	noa	Aharon Solomon	Division of Molecular Oncology, Dept Medicine, Evanston Northwestern Healthcare Research Institute,Feinberg School of Medicine, Northwestern University, 1001 University Place, Evanston, IL 60201, USA	Aharon_solomon@yahoo.com
+NP	cd	Hanna Johnny Fares	University of Arizona	
+NPR	nib	Brandon K. Harvey	National Institute of Drug Abuse, Suite 200, Room 06A729, 251 Bayview Blvd. Baltimore, MD 21224 USA	BHarvey@intra.nida.nih.gov
+NQ	qn	David Menassah Raizen	University of Pennsylvania, Philadelphia PA	raizen@mail.med.upenn.edu
+NR	kz	Kozo Kaibuchi	NAIST, Nara, Japan	kaibuchi@bs.aist-nara.ac.jp
+NS	nr	Michael Basson	Axys Pharmaceuticals, South San Francisco CA	michael_basson@axyspharm.com
+NT	uc	Marc D. Perry	University of Toronto, Toronto, Canada	marc.perry@utoronto.ca
+NTC		Netta Cohen	University of Leeds, Leeds, UK	
+NU	nk	Naoto Ueno	Natl. Inst. for Basic Biology, Okazaki, Japan	nueno@nibb.ac.jp
+NV	nv	Neville R. Ashcroft	University of Sussex, Brighton, England	
+NW	ev	Joseph Gary Culotti	Mt. Sinai Hospital Res. Inst., Toronto, Canada	culotti@mshri.on.ca
+NWG	crk	Nathan W. Goehring	The Francis Crick Institute, London, UK	Nate.Goehring@crick.ac.uk
+NX	tv	Limor Broday	Tel Aviv University, Tel Aviv, Israel	broday@post.tau.ac.il
+NY	yn	Christine Li	City College of New York, NY	cli@sci.ccny.cuny.edu
+NYL	yad	Dong Yan	Duke University, Durham, NC	dong.yan@duke.edu
+NZ	drj	Dirk R Albrecht	Worcester Polytechnic Institute, Worcester MA	dalbrecht@WPI.EDU
+OA	fu	Oscar Navarro Aurelio	California State University, Fullerton CA	
+OB	im	Eisuke Mekada	Osaka University, Osaka, Japan	emekada@biken.osaka-u.ac.jp
+OC	bs	Kevin F O'Connell	NIDDK/NIH, Bethesda MD	kfoconne@facstaff.wisc.edu
+OCF	ocf	Orna Cohen-Fix	NIDDK/NIH, Bethesda MD	ornacf@helix.nih.gov
+OCY	ntu	Chan-Yen Ou	Institute of Biochemistry and Molecular Biology, Taipei, Taiwan	chanyen@ntu.edu.tw
+OD	lt	Arshad B Desai	UCSD, San Diego CA	
+OE	of	Peter Swoboda	Karolinska Institute, Huddinge, Sweden	peter.swoboda@biosci.ki.se
+OEB	oq	Oliver E Blacque	University College Dublin, Dublin, Ireland	oliver.blacque@ucd.ie
+OF	ix	Ichiro N Maruyama	OIST, Okinawa, Japan	ichi@oist.jp
+OG	dr	Todd Lamitina	Children's Hospital of Pittsburgh of UPMC, Pittsburgh, PA	todd.lamitina@chp.edu
+OH	ot	Oliver Hobert	Columbia University, New York NY	or38@columbia.edu
+OIW	nth	Oliver Ingvar Wagner	National Tsing Hua University, Hsinchu, Taiwan	owagner@life.nthu.edu.tw
+OJ	vj	Derek Stephan Sieburth	University of Southern California, Los Angeles CA	sieburth@usc.edu
+OK	cu	Peter G Okkema	University of Illinois, Chicago IL	okkema@uic.edu
+OL	uk	Gino B. Poulin	University of Manchester, Manchester, England	Gino.Poulin@manchester.ac.uk
+OLB	dus	Olaf Bossinger	Institute of Anatomy I, Molecular and Cellular Biology, Cologne, Germany	bossinger@mac.com
+OLS	aar	Anders Olsen	University of Aarhus, Aarhus, Denmark	ano@mb.au.dk
+OM	pb	Miguel Estevez	University of Arizona, Tucson AZ	estevezm@email.arizona.edu
+OMG	sic	Andre E X Brown	Imperial College, London, UK	andre.brown@imperial.ac.uk
+ON	kt	Shoichiro Ono	Emory University, Atlanta GA	ono@bimcore.emory.edu
+ONA	yok	Shuichi Onami	RIKEN, Yokoham, Japan	
+OP	wg	Valerie J Reinke	modENCODE/Yale University, New Haven CT	
+OQ	ulb	Patrick Laurent	ULB Neuroscience Institute (UNI), Brussels, Belgium	patrick.laurent@ulb.ac.be
+OR	od	Christopher G Rongo	Rutgers University, Piscataway NJ	rongo@uclink4.berkeley.edu
+OS	ns	Shai Shaham	Rockefeller University, New York NY	shaham@cgl.ucsf.edu
+OT	er	John Plenefisch	University of Toledo, Toledo OH	jplenef@uoft02.utoledo.edu
+OTL	jpn	Shinsuke Niwa	Tohoku University, Sendai, Japan 	shinsuke.niwa.c8@tohoku.ac.jp
+OTN	otn	Oliver Hobert	OTN, Columbia University, New York NY	or38@columbia.edu
+OU	zy	Antonio Colavita	Ottawa Health Res. Inst., Ottawa, Canada	colavita@uottawa.ca
+OV	ov	Masato Okada	Osaka University,Osaka 565-0871, Japan	okadam@biken.osaka-u.ac.jp
+OW	zg	Ellen A. Nollen	Department of Genetics,UMCG,Netherlands	e.a.a.nollen@medgen.umcg.nl
+OX	pj	Martha Cecilia Soto	UMDNJ, Piscataway NJ	
+OY	rb	Renee A Baran	Occidental College, Los Angeles CA	
+OZ	ly	Tim H Lindblom	Jacksonville State University, Jacksonville, AL	tlindblom@jsu.edu
+PA	hv	Carol Trent	Western Washington University, Bellingham WA	trent@biol.wwu.edu
+PAB		Pierre Abad	INRA, Sophia Antipolis, France	Pierre.Abad@sophia.inra.fr
+PAS	lfc	Pliny A Smith	Lake Forest College, Lake Forest IL	smith@lakeforest.edu
+PAZ	zap	Philip Zegerman	University of Cambridge, UK 	philip.zegerman@gurdon.cam.ac.uk
+PB	bd	Scott Everet Baird	Wright State University, Dayton OH	sbaird@wright.edu
+PC	ub			
+PD	cc	Andrew Z. Fire	Stanford University, Stanford CA	
+PDL		Paul De Ley	Universiteit Gent, Gent, Belgium	paul.deley@rug.ac.be
+PE	fe	Jonathan Pettitt	University of Aberdeen, Aberdeen, Scotland	j.pettitt@abdn.ac.uk
+PF	nn	Fabio Piano	NYU, New York NY	fp1@nyu.edu
+PFR		Francesca Palladino	Ecole Normale Sup. de Lyon, Lyon, France	francesca.palladino@ens-lyon.fr
+PG	kw	Patricia L Graham	Carthage College, Kenosha WI	graham1@carthage.edu
+PH	hf	Philip S Hartman	Texas Christian University, Fort Worth TX	p.hartman@tcu.edu
+PIR	pir	Eckhard Mandelkow	German Centre Neurodegenerative Diseases (DZNE) & CEASAR Research Centre, Bonn, Germany	mandelkow@dzne.de
+PJ	j	Lewis A Jacobson	University of Pittsburgh, Pittsburgh PA	ljac@vmx.cis.pitt.edu
+PJK		Paul Julian Kersey	EMBL-European Bioinformatics Institute, Cambridge, UK	pkersey@ebi.ac.uk
+PJP	pjp	Paola Jurado	Instituto de Investigacion Biomedica de Bellvitge (IDIBELL), Barcelona, Spain	paola.idibell@gmail.com
+PK	cr	Patricia E. Kuwabara	University of Bristol, Bristol UK	p.kuwabara@bristol.ac.uk
+PKL	kap	Pankaj Kapahi	Pankaj  Buck Institute, Novato C	pkapahi@buckinstitute.org
+PKR	wvs	Predrag Krajacic	West Virginia School of Osteopathic Medicine, Lewisburg WV	pkrajacic@osteo.wvsom.edu
+PL	lu	Pamela L. Larsen	University of Texas, San Antonio, TX	larsenp@uthscsa.edu
+PLD	mfd	Dong Liu	Peking University, Beijing, China	doliu@pku.edu.cn
+PM	pn	Pamela A. Padilla	University of North Texas, Denton TX	
+PMC	icm	Peter M Carlton	University of Kyoto, Kyoto, Japan	pcarlton@icems.kyoto-u.ac.jp
+PMD	uts	Peter M Douglas	UT Southwestern Medical Center, Dallas, TX	peter.douglas@utsouthwestern.edu
+PMG	yrk	Peter McGlynn	University of York, York, UK	peter.mcglynn@york.ac.uk
+PMW	ubs	Peter Meister	University of Bern, Bern, Switzerland	peter.meister@izb.unibe.ch
+PN	qs	Placido Navas	Universidad Pablo de Olavide, Seville, Spain	pnavas@upo.es
+POL	war	Wadim Kapulkin	MPI MCBG, Dresden, Germany	wadim_kapulkin@yahoo.co.uk
+POM	pmn	Sara K Olson	Pomona College, Claremont CA	solson@ucsd.edu
+PP	hh	Thorsten Hoppe	Hamburg University, Hamburg, Germany	
+PQ	ap	Amy E Pasquinelli	UCSD, La Jolla CA	
+PR	p		University of Pittsburgh, Pittsburgh PA	
+PRB	qf	Peter R Boag	Monash University, Victoria, Australia	peter.boag@med.monash.edu.au
+PRJ	mut	Rudiger J Paul	Westfalische Wilhelms-Universitat Munster, Germany	paulr@uni-muenster.de
+PS	sy	Paul W Sternberg	Caltech, Pasadena CA	pws@cco.caltech.edu
+PSY	los	Steve Hodgkinson	University of Ulm, Ravensburg, Germany	steve.hodgkinson@uni-ulm.de
+PT	my	Maureen M Barr	Rutgers University, Piscataway, NJ	barr@biology.rutgers.edu
+PTM	kah	Patrick Timothy McGrath	Georgia Institute of Technology, Atlanta GA	patrick.mcgrath@biology.gatech.edu
+PTN	zhs	Zu-Hang Sheng	NINDS, NIH, Bethesda MD	shengz@ninds.nih.gov
+PU	fw	Qichang Fan	Peking University, Beijing, China	
+PV	jk	James B Lok	School of Veterinary Medicine	jlok@vet.upenn.edu
+PVH	pcc	Patricija van Oosten-Hawle	University of Leeds, UK	p.vanoosten-hawle@leeds.ac.uk
+PVX	mvp	Jay N Pieczynski	Rollins College, Winter Park, FL	pieczynski@rollins.edu
+PW	pt	Patrick B Tan	National Cancer Centre, Singapore	cmrtan@nccs.com.sg
+PX	fx	Patrick C Phillips	University of Texas, Arlington TX	pphillips@uta.edu
+PY	oy	Piali Sengupta	Brandeis University, Waltham MA	piali@volen.ccs.brandeis.edu
+PZ	ph	Pamela E. Hoppe	Wood Hall Western Michigan University, Kalamazoo, MI	pamela.hoppe@wmich.edu
+QA	yt	Adrian Streit	MPI for Developmental Biology, Tuebingen, Germany	
+QB	yr	Serge Desnoyers	CHUL Research Centre, Quebec, Canada	serge.desnoyers@crchul.ulaval.c
+QC	et	Marc Pilon	Goteborg University, Goteborg, Sweden	marc.pilon@cmb.gu.se
+QD	qj	Takeshi Ishihara	Kyushu University, Fukuoka, Japan 	takeiscb@mbox.nc.kyushu-u.ac.jp
+QE	var	Takeshi Adachi	Kanagawa University, Kanagawa, Japan	adachi-bio@kanagawa-u.ac.jp
+QF	qef	Annalise B Paaby	Georgia Institute of Technology, Atlanta, GA	annalise.paaby@biology.gatech.edu
+QG	qg	Matthew V Rockman	New York University, New York NY	
+QH	vd	Massimo Antonio Hilliard	University of Queensland, St Lucia, Australia	m.hilliard@uq.edu.au
+QJ	jq	Keiko Gengyo-Ando	Saitama University, Saitama, Japan	andok@mail.saitama-u.ac.jp
+QK	xk	John K. Kim	Johns Hopkins University, Baltimore, MD	jnkim@jhu.edu
+QL	drc	Queelim Ch'ng	King's College London, London, England	queelim.ch'ng@kcl.ac.uk
+QM	xa	Masanori Mishima	University of Warwick, Coventry, England	M.Mishima@warwick.ac.uk
+QP	ea	Judith L Yanowitz	Magee-Womens Research Institute, Pittsburgh, PA	yanowitzjl@mwri.magee.edu
+QQ	cv	Jeffrey S Simske	Rammelkamp Center, Cleveland OH	
+QR	vh	Christian E Rocheleau	McGill University, Montreal, Canada	christian.rocheleau@mcgill.ca
+QS	qr	Ryuzo Shingai	Iwate University, Iwate, Japan	Japan shingai@iwate-u.ac.jp
+QT	nz	Stephen John Nurrish	Massachusetts General Hospital, Boston, MA	nurrish@molbio.mgh.harvard.edu
+QU	iz	Alicia Melendez	Queens College, CUNY, Flushing NY	alicia.melendez@qc.cuny.edu
+QV	zj	Keith P Choe	223 Bartram Hall, PO Box 118525, University of Florida, Gainesville FL 32611-8525	
+QW	zf	Mark J Alkema	University of Massachusetts, Worcester MA	mark.alkema@umassmed.edu
+QX	qq	Leonid Kruglyak	UCLA, Los Angeles CA	lkruglyak@mednet.ucla.edu
+QY	sar	Scott A. Rifkin	University of California, San Diego, CA	sarifkin@ucsd.edu
+QZ	jx	Joy Alcedo	Wayne State University, Detroit, MI	Joy.Alcedo@wayne.edu
+RA	rd	Laura D Mathies	 Virginia Commonwealth University, VA	
+RAB		Rebecca A Butcher	University of Florida, Gainesville, FL	butcher@chem.ufl.edu
+RAC	ach	Ron An-jung Chen	University of Leeds, UK	R.A.Chen@leeds.ac.uk
+RAF	rrr	Rafal Ciosk	Friedrich Miescher Institute, Basel, Switzerland.	
+RB	ok			
+RBG		Robin Beat Gasser	The University of Melbourne, Victoria, Australia	robinbg@unimelb.edu.au
+RBW	hut	Roger Brent	FHCRC, Seattle WA	rbrent@fhcrc.org
+RC	g	Randall C Cassada	Universitat Freiburg, Freiburg, Germany	
+RCH	uvw	Robin L Hill	University of Virginia, Wise VA	rch5g@uvawise.edu
+RCT	rms	Rebecca C Taylor	MRC Laboratory of Molecular Biology, Cambridge, UK	rtaylor@mrc-lmb.cam.ac.uk
+RD	pp	Renaud Legouis	CNRS-CGM, Gif-sur-Yvette, France	
+RDV	rdv	Ronald D. Vale	UCSF, San Francisco CA	vale@cmp.ucsf.edu
+RE	v	Ronald E Ellis	UMDNJ-SOM, Stratford, NJ	ron.ellis@umdnj.edu
+REB	axr	Rachid El Bejjani	Davidson College, Davidson, NC	raelbejjani@davidson.edu
+RED		Richard Elliott Davis	University of Colorado, CO	Richard.davis@ucdenver.edu
+RER	lsu	Robert E Rhoads	LSUHSC, Shreveport LA. USA.	
+RF	xw	Allison Lynn Abbott	Marquette University, Milwaukee WI	abbott.allison@marquette.edu
+RFK	xf	Rene F Ketting	Institute of Molecular Biology (IMB), Mainz, Germany	r.ketting@imb-mainz.de
+RG	ve	Ann E Rougvie	University of Minnesota, St. Paul MN	rougvie@molbio.cbs.umn.edu
+RGD		Robin Michael Giblin-Davis	University of Florida, Fort Lauderdale FL	
+RH	bu	Russell J Hill	Ohio State University, Columbus OH	
+RIE	atr	Christian G. Riedel	Karolinska Institutet, Stokholm, Sweden	christian.riedel@ki.se
+RJ	rn	Richard M Nass	Indiana University School of Medicine, Indianapolis, IN	ricnass@iupui.edu
+RJM	imp	Rachel J McMullan	Imperial College London, London, England	r.mcmullan@imperial.ac.uk
+RJP	rp	Roger David Pocock	Monash University, Victoria, Australia	Roger.Pocock@monash.edu
+RK	us	Rebecca Eustance Kohn	Ursinus College, Collegeville PA	rkohn@ursinus.edu
+RL	da	Lesilee Simpson Rose	University of California, Davis CA	lsrose@ucdavis.edu
+RLH	csu	Ray L Hong	California State University, Northridge CA	ray.hong@csun.edu
+RM	md	James Berry Rand	Oklahoma Med. Res. Found., Oklahoma City OK	randj@omrf.uohsc.edu
+RMR		Rose Mary Reynolds	William Jewel College, Liberty, MO	reynoldsr@william.jewell.edu
+RN	xm	Rosa Estela Navarro	UNAM, Mexico City, Mexico	
+RP	tr	Peter John Roy	University of Toronto, Toronto, Canada	peter.roy@utoronto.ca
+RPF	hca	Robert Fairman	Haverford College, Haverford, PA	rfairman@haverford.edu
+RPW	ums	Read Pukkila-Worley	University of Massachusetts Medical School, Worcester, MA	Read.Pukkila-Worley@umassmed.edu
+RQ	jz	Risa Kitagawa	Nationwide Children's Hospital, Columbus OH	risa.kitagawa@stjude.org
+RR	oe	Randall R Reed	Johns Hopkins University, Baltimore MD	brinda@welchlink.welch.jhu.edu
+RS	tu	Ralf J Sommer	MPI, Tuebingen, Germany	ralf.sommer@tuebingen.mpg.de
+RSN	nwr	Ryusuke Niwa	University of Tsukuba, Tsukuba, Japa	ryusuke-niwa@umin.ac.jp
+RT	pw	Barth D Grant	Rutgers University, Piscataway NJ	
+RTD	nyc	Ryan T Doonan	Dept Biological Sciences,Hunter College,CUNY,695 Park Ave, New York, NY 10065. USA.	
+RU	kd	Ruth Elisabeth Chiquet-Ehrismann	Friedrich Miescher Inst, Basel, Switzerland	ruth.chiquet@fmi.ch
+RUX	zax	Rui Xiao	University of Florida, Gainesville, FL	rxiao@ufl.edu
+RV	gd	Harold Eugene Smith	CARB/UMBI, Rockville MD	
+RVM	vlt	Rafael P Vazquez-Manrique	Hospital Universitario La Fe, Valencia, Spain	rafael_vazquez@iislafe.es
+RW	st	Robert H Waterston	University of Washington, Seattle, WA	 waterston@gs.washington.edu
+RWK	fv	Richard W Komuniecki	University of Toledo, Toledo OH	rkomuni@uoft02.utoledo.edu
+RX	sp	Armand Marie Leroi	Imperial College, Silwood Park, England	a.leroi@ic.ac.uk
+RY	mp	Elizabeth F Ryder	Worcester Polytechnic Institute, Worcester MA	ryder@wpi.edu
+RZ	rz	Zaven Kaprielian	Albert Einstein College of Medicine, Bronx NY	
+RZB	msn	Ronen Zaidel-Bar	National University of Singapore, Singapore	zaidelbar.lab@gmail.com
+SA	tj	Asako Sugimoto	Tohoku University, Sendai, Japan	asugimoto@m.tains.tohoku.ac.jp
+SAL	den	Scott Alper	Integrated Department of Immunology & Center for Genetics and Therapeutics,National Jewish Health, 1400 Jackson St, A640, Denver, CO 80206, USA	alpers@njhealth.org
+SAN		Steven A Nadler	University of California, Davis CA	sanadler@ucdavis.edu
+SAR	fun	Funda Sar	Koc University, Istanbul, Turkey	sarfunda@yahoo.com
+SAY	wit	Javier Apfeld	Northeastern University, Boston, MA	j.apfeld@neu.edu
+SB	be	Walter Sudhaus	Freie Universitaet Berlin, Berlin, Germany	
+SBG	sbg	Gen Sobue	Nagoya University, Nagoya, Japan	sobueg@med.nagoya-u.ac.jp
+SBL	dhk	Do Han Kim	GIST, Gwangjiu, Korea	dhkim@gist.ac.kr
+SBP	mgw	Sarah B. Pierce	University of Washington, Seattle WA	sbpierce@u.washington.edu
+SBW	sbw	Shirin Bahmanyar	Yale University, New Haven, CT	bahmanyarlab.commons.yale.edu
+SC	lm	Leilani M. Miller	Santa Clara University, Santa Clara CA	lmiller@mailer.scu.edu
+SCB	drg	Marios Chatzigeorgiou	University of Bergen, Bergen, Norway	Marios.Chatzigeorgiou@uib.no
+SCL	lad	Steven Gerard Clarke	UCLA, Los Angeles CA	clarke@mbi.ucla.edu
+SCS	qk	Csaba Soti	Semmelweis University, Budapest, Hungary	csaba.soti@eok.sote.hu
+SD	ga	Stuart K Kim	Stanford University, Stanford CA	kim@cmgm.stanford.edu
+SDW	asd	Sandy D Westerheide	University of South Florida, Tampa, FL	swesterheide@usf.edu
+SE	sr	Sean Roberts Eddy	Howard Hughes Medical Institute, Ashburn, VA	eddylab@janelia.hhmi.org
+SEE	scr	Sandra Elizabeth Encalada	Scripps Research Institute, La Jolla CA 	encalada@scripps.edu
+SEH	pdr	Sarah E Hall	Syracuse University, Syracuse NY	shall@syr.edu
+SF	pc	Philip Coffino	University of California,  San Francisco CA	coffino@cgl.ucsf.edu
+SG	ds	Jochen K. Scheel	MPI, Tuebingen, Germany	scheel@mpib-tuebingen.edu
+SGC	cwr	Shu G Chen	Case Western Reserve University, Cleveland OH	shu.chen@case.edu
+SGP	sgp	Peter St George-Hyslop	University of Toronto, Toronto ON, Canada	p.hyslop@utoronto.ca
+SGR	gre	Sebastian Greiss	University of Edinburgh, Edinburgh, Scotland	s.greiss@ed.ac.uk
+SH	ke	Diane J. Levitan	Schering-Plough Research Inst., Kenilworth NJ	diane.levitan@spcorp.com
+SHG	ust	Shouhong Guang	USTC, Hefei, China	sguang@wisc.edu
+SHK	biu	Sivan Henis-Korenblit	Bar-Ilan University, Ramat-Gan, Israel	sivankorenblit@gmail.com
+SHX	zju	Suhong Xu	Zhejiang University, Hangzhou, Zhejiang, China	shxu@zju.edu.cn
+SJ	zc	David Ron	Skirball Institute, New York NY	ron@saturn.med.nyu.edu
+SJL	cgu	Szecheng J. Lo	Chang Gung University, Taiwan	losj@mail.cgu.edu.tw
+SJU	stj	Matthew D Nelson	Saint Joseph's University, PA	mnelson@sju.edu
+SJZ	fox	Steven John Zuryn	The University of Queensland, St Lucia, Australia	s.zuryn@uq.edu.au
+SK	zd	Scott G Clark	University of Nevada, Reno, NV	sgclark@unr.edu
+SKC	bid	Stuart Keith Calderwood	Harvard University, Boston MA	scalderw@bidmc.harvard.edu
+SKP	ksh	Sunhong Kim	KRIBB, Chungbuk, Korea	sunhong@kribb.re.kr
+SL	eb	Steven W L'Hernault	Emory University, Atlanta GA	bioslh@emuvm1.cc.emory.edu
+SLR	stx	Shane Leslie Rea	Barshop Institute, UTHSC, San Antonio TX	
+SLS	aot	Hari Shroff	National Institute of Biomedical Imaging and Bioengineering, Bethesda, MD	hari.shroff@nih.gov
+SM	px	Susan E Mango	Department of Molecular and Cellular Biology,Harvard University, 16 Divinity Ave, Cambridge, MA 02138.USA.	smango@mcb.harvard.edu 
+SMD	zum	Shumin Duan	Zhejiang University, Hanzhou, China	duanshumin@zju.edu.cn
+SMS		Sundararaj Palanisamy	Bharathiar University, Coimbatore, India	sunpalan@gmail.com
+SMW	wig	Sarah M. Wignall	Northwestern University, Evanston IL	s-wignall@northwestern.edu
+SN	mk	Shin Murakami	Touro University-California, CA	shin.murakami@touro.edu
+SNK	enj	Sudhir B Nayak	The College of New Jersey, Ewing NJ	nayak@tcnj.edu
+SOZ	ssd	Shaobing O. Zhang	Capital Normal University, Beijing, China	soz001@yahoo.com
+SP	mn	Robert K Herman	University of Minnesota, St. Paul MN	bob-h@umn.edu
+SPC	lax	Sean Patrick Curran	University of Southern California, CA	
+SPN	chs	Shih-Peng Chan	National Taiwan University, Taipei, Taiwan	shihpengchan@ntu.edu.tw
+SPU	maa	Maria Agapito	St. Peter's University, Jersey City, NJ	agapitoma@gmail.com
+SQ	zk	Shahid Saeed Siddiqui	McGenome LLC, IL	sssiddiqui@gmail.com
+SQC	yfh	Shi-Qing Cai	Shanghai Institutes for Biological Sciences, Shanghai, China	sqcai@ion.ac.cn
+SR	rs	Robert Joseph Shmookler Reis	University of Arkansas, Little Rock AR	rjreis@life.uams.edu
+SRS	sra	Sharad Ramanathan	Harvard Stem Cell Institute, Cambridge MA	sharad@cgr.harvard.edu
+SS	bn	Susan Strome	University of California, Santa Cruz, CA	strome@biology.ucsc.edu
+SSM	iow	Sarit Smolikove	Department of Biology Room 450,University of Iowa, Iowa City, IA 52240, USA.	sarit-smolikove@uiowa.edu
+SSP	ssp	Shanshan Pang	Chongqing University, Chongqing, China	sspang@cqu.edu.cn
+SSR	ssr	Supriya Srinivasan	Scripps Research Institute, La Jolla CA	supriya@scripps.edu
+ST	nc	Shin Takagi	Nagoya University, Nagoya, Japan	i45116a@nucc.cc.nagoya-u.ac.jp
+STA	utr	Attila Stetak	University of Basel, Basel, Switzerland	a.stetak@unibas.ch
+STE	ste	Stefan Taubert	University of British Columbia (UBC),Room 3018,950 West 28th Avenue,Vancouver BC V5Z 4H4,Canada	taubert@cmmt.ubc.ca
+STR	hrt	Martin Harterink	Utrecht University, Utrecht, The Netherlands	c.hoogenraad@uu.nl
+SU	jc	Jeff Hardin	University of Wisconsin, Madison WI	jdhardin@facstaff.wisc.edu
+SUN	gab	Maria Dominguez	Instituto de Neurociencias, Alicante, Spain	m.dominguez@umh.es
+SV	he	Sander Jean Louis van den Heuvel	MGH, Charlestown MA	
+SVQ	svq	Rafael Fernandez-Chacon	Universidad de Sevilla, Sevilla, Spain	rfchacon@us.es
+SW	se	David Waring	FHCRC, Seattle WA	dwaring@fred.fhcrc.org
+SWD	ucr	Shou-Wei Ding	University of California, Riverside CA	shou-wei.ding@ucr.edu
+SWG	ges	Stephan W Grill	Technische Universitat Dresden, Dresden, Germany	stephan.grill@biotec.tu-dresden.de
+SX	mj	Eric Alexander Miska	University of Cambridge, Cambridge, England	e.miska@gurdon.cam.ac.uk
+SY	ja	Janet Elizabeth Richmond	will be University of Illinois, Chicago IL	
+SYD	syd	Yidong Shen	Shanghai Institutes for Biological Sciences, Shanghai, China	yidong.shen@sibcb.ac.cn
+SYS	dev	Zhuo Du	Chinese Academy of Sciences, Beijing, China	zdu@genetics.ac.cn
+SZ	az	Alan Mark Zahler	University of California, Santa Cruz CA	zahler@biology.ucsc.edu
+TA	ob	Taylor C Allen	Oberlin College, Oberlin OH	taylor.allen@oberlin.edu
+TAM	ram	Taiowa A Montgomery	Colorado State University, Fort Collins, CO 	tai.montgomery@colostate.edu
+TB	ch	Thomas R Burglin	Karolinska Institutet, Huddinge, Sweden	thomas.burglin@biosci.ki.se
+TBD	utd	Tobias B. Dansen	UMCU, Utrecht, The Netherlands	t.b.dansen@umcutrecht.nl
+TC	jt	Tarja K Kinnunen	University of Liverpool, Liverpool UK	t.k.kinnunen@liv.ac.uk
+TCB	nat	Nathaniel R Dudley	TrySci Community Biolabs, Independence, MO	executivedirector@trysci.org
+TD	tc	KK Lew	Forsyth Dental Center, Boston MA	
+TE	oc	Thomas Christopher Evans	UCHSC, Denver CO	tom.evans@uchsc.edu
+TEE	lcs	Peter Sarkies	Imperial College, London, UK	p.sarkies@imperial.ac.uk
+TF	ht	Yo Tabuse	NEC Fundamental Research Labs, Tsukuba, Japan	ytabuse@exp.cl.nec.co.jp
+TG	gt	Anton Gartner	MSI/WTB Complex, University of Dundee, UK	a.gartner@dundee.ac.uk
+TGF	drx	Tali Gidalevitz	Drexel University, Philadelphia PA	TG443@drexel.edu
+TGR	tag	Mihail S Sarov	MPI-CBG, Dresden, Germany	sarov@mpi-cbg.de
+TH	dd	Tony Arie Hyman	MPI Dresden, Germany	hyman@embl-heidelberg.de
+TJ	z	Thomas E. Johnson	University of Colorada, Boulder CO	johnsont@colorado.edu
+TK	kn	Naoaki Ishii	Tokai University Med. School, Kanagawa, Japan	nishii@cc.u-tokai.ac.jp
+TKB	trc	Akiyoshi Fukamizu	University of Tsukuba, Tsukuba, Japan	akif@tara.tsukuba.ac.jp
+TL	cy	Marc Tessier-Lavigne	University of California, San Francisco CA	antonio@itsa.ucsf.edu
+TLG	tex	Tina L Gumienny	Texas Woman's University, Denton, TX	tgumienny@twu.edu
+TM	sj	Shuji Honda	Tokyo Met. Inst. Ger., Tokyo, Japan	hondas@center.tmig.or.jp
+TMB	kln	Thomas Benzing	University of Cologne, Cologne, Germany	thomas.benzing@uk-koeln.de
+TMD	mik	Tamara Mikeladze-Dvali	Biozentrum der LMU Mnchen, Planegg-Martinsried, Germany	tmdvali@biologie.uni-muenchen.de
+TMG	tmg	Theresa M Grana	University of Mary Washington, Fredericksburg VA	tgrana@umw.edu
+TMR		Thomas Muller-Reichert	Technische Universitaet, Dresden, Germany	Mueller-Reichert@tu-dresden.de
+TN	cn	Ryuji Hosono	Kanazawa University, Ishikawa, Japan	rhosono@kenroku.ipc.kanazawa-u.ac.jp
+TOG	ogr	Taro Ogurusu	Iwate University, Morioka, Iwate, Japan	ogurusu@iwate-u.ac.jp
+TOL	aat	Gal Haspel	NJIT, Newark NJ	haspelg@ninds.nih.gov
+TP	ka	Antony Paul Page	University of Glasgow, Scotland	a.page@vet.gla.ac.uk
+TQ	xu	X.Z. Shawn Xu	Life Sciences Institute	shawnxu@lsi.umich.edu
+TR	r	Philip Anderson	University of Wisconsin, Madison WI	andersn@facstaff.wisc.edu
+TRZ	akr	Chris Trzepacz	Chris Murray State Univ, Murray KY	chris.trzepacz@murraystate.edu
+TS	va	Terrance Preston Snutch	UBC, Vancouver BC, Canada	
+TSK		Taisei Kikuchi	Forestry and Forest Products Research Institute, Ibaraki, Japan	kikuchit@affrc.go.jp
+TT	tb	Sandhya Padmanabhan Koushika	Tata Institute of Fundamental Research, Mumbai, India	sandhyakoushika@gmail.com
+TTV	elu	Tibor Vellai	Eotvos Lorand University, Budapest, Hungary	vellai@falco.elte.hu
+TU	u	Martin Chalfie	Columbia University, New York NY	mc21@columbia.edu
+TV	wy	Kang Shen	Stanford University, Stanford, CA	kangshen@stanford.edu
+TW	cj	John Joseph Collins	University of New Hampshire, Durham NH	collins@genome.unh.edu
+TWL	lot	Te-Wen Lo	Ithaca College, Ithaca NY	tlo@ithaca.edu
+TWN	yph	Yen-Ping Hsueh	Academia Sinica, Taipei, Taiwan	pinghsueh@gate.sinica.edu.tw
+TWP	mxc	Matthew Crook	Whitman College, Walla Walla, WA	crookm@whitman.edu
+TX	te	Rueyling Lin	UTSW Medical Center, Dallas TX	rlin@hamon.swmed.edu
+TXL	txu	Tao Xu	Chinese Academy of Sciences, Beijing, China	xutao@ibp.ac.cn
+TY	y	Barbara J. Meyer	University of California, Berkeley CA	bjmeyer@uclink4.berkeley.edu
+TZ	ts	Stephen Trowell	CSIRO Entomology, Canberra, Australia	Stephen.Trowell@csiro.au
+UA	ba	Guy A Caldwell	University of Alabama, Tuscaloosa AL	gcaldwel@bama.ua.edu
+UB	ws	Rock Pulak	Union Biometrica, Holliston MA	rpulak@unionbio.com
+UC	la	Jorge Mancillas	Northwestern University, Chicago, IL	jmancillas@northwestern.edu
+UD	yc	Daniel A Starr	UC Davis, Davis CA	
+UE	oa	Carrie R Cowan	Cold Spring Harbor Laboratory, Cold Spring Harbor, NY	ccowano@mb.au.dk
+UF	gq	David Weinkove	Durham University, Durham, UK	david.weinkove@durham.ac.uk
+UG	bg	Thierry Bogaert	Devgen NV, Zwijnaarde, Belgium	thierry.bogaert@devgen.com
+UGR	alp	Angel L Pey	Universidad de Granada, Granada, Spain	angelpey@ugr.es
+UH	uh	John Francis Scott	Macau, Macao SAR China	scottj729@gmail.com
+UJ	miz	Kota Mizumoto	The University of British Columbia, Vancouver, Canada	mizumoto@zoology.ubc.ca
+UK	ln	William Nawrocki	University College, London, England	
+UL	le	Ian Allen Hope	University of Leeds, Leeds, England	iahope@leeds.ac.uk
+UM	qz	Jean-Claude Labbe	University of Montreal, Montreal, Canada	jc.labbe@umontreal.ca
+UMT	mnt	Ekaterina Voronina	University of Montana, Missoula MT	ekaterina.voronina@mso.umt.edu
+UN	xb	Erin Jean Cram	Northeastern University, Boston MA	e.cram@neu.edu
+UP	cs	Meera Vedavalli Sundaram	University of Pennsylvania, PA	sundaram@mail.med.upenn.edu
+UQ	wr	Paul Richard Ebert	University of Queensland, St Lucia, Australia	ebert@biosci.uq.edu.au
+UQM		Sarah Jenna	Universite du Quebec a Montreal, Quebec, Canada	jenna.sarah@uqam.ca
+UR	fs	Douglas S Portman	University of Rochester, Rochester NY	douglas_portman@urmc.rochester.edu
+US	lz	Rebecca Lyczak	Ursinus College, Collegeville PA	
+USC	cmp	Carolyn Marie Phillips	University of South California, Los Angeles, CA	cphil@usc.edu
+UT	mm	Derek van der Kooy	University of Toronto, Toronto, Canada	
+UTK	utk	Takeo Kubo	University of Tokyo, Tokyo, Japan	stkubo@biol.s.u-tokyo.ac.jp
+UU	pq	Mary C Beckerle	University of Utah, Salt Lake City UT	mary.beckerle@hci.utah.edu
+UV	jf	Verena Jantsch	University of Vienna, Vienna, Austria	
+UW	wb	Robin Woods	University of Winnipeg, Winnipeg, Canada	
+UX	jn	Gillian Marie Stanfield	University of Utah, Salt Lake City UT	gillians@genetics.utah.edu
+UY	zen	Anna Y Zinovyeva	Kansas State University, Manhattan, KS	zinovyeva@ksu.edu
+UZ	xt	Colin Michael Thacker	University of Utah, Salt Lake City UT	cthacker@cores.utah.edu
+VA	pm	Eve Gabrielle Stringham	Trinity Western University, Langley, Canada	stringha@twu.ca
+VAG	bcm	Viviane Alves Gouveia	Universidade Federal de Minas Gerais, Belo Horizonte, Brazil	gouveiava@ufmg.br
+VB	sv	Simon Patrick Tuck	University of Umea, Sweden	Simon.Tuck@ucmm.umu.se
+VBS	vba	Vincent Bertrand	IBDML, Marseille, France	vincent.bertrand@ibdml.univmed.fr
+VC	gk	Donald Gordon Moerman	C. elegans Reverse Genetics Core Facility, Vancouver, B.C., Canada	moerman@zoology.ubc.ca
+VD	sn	Kevin Van Doren	Syracuse University, Syracuse NY	
+VDL	san	Alexander M van der Linden	University of Nevada, Reno NV	avanderlinden@unr.edu
+VE	eav	Elizabeth A Veal	Newcastle University, Newcastle, England	e.a.veal@ncl.ac.u
+VF	gf	Olena K Vatamaniuk	Cornell University, Ithaca NY	okv2@cornell.edu
+VG	yv	Catharine H. Rankin	University of British Columbia, Vancouver, Canada	crankin@psych.ubc.ca
+VH	hd	Harald Hutter	Simon Fraser University, Burnaby, Canada	hutter@sfu.ca
+VIG	pmc	Vincent Galy	Equipe Dynamique Nucleaire et Developpement,UMR CNRS 7622, Biologie du Developpement, Case 24, Universite Pierre et Marie Curie,9 quai Saint-Bernard, 75252 PARIS Cedex 05, FRANCE.	vincent.galy@snv.jussieu.fr
+VJ	fg	Verena Gobel	MGH, Boston MA	gobel@helix.mgh.harvard.edu
+VK	vk	Gary A Silverman	Children's Hospital, Boston MA	
+VL	ww	AJ Marian Walhout	University of Massachusetts, Worcester MA	Marian.Walhout@umassmed.edu
+VM	ak	Andres Villu Maricq	University of Utah, Salt Lake City UT	maricq@biology.utah.edu
+VN	vn	Hubert H.M. Van Tol	Centre for Addiction & Mental Health	hubert.van.tol@utoronto.ca
+VP	kb	Kevin Strange	Mount Desert Island Biological Laboratory ME	k.strange@mdibl.org
+VPR	vpr	Vladimir Parpura	University of Alabama, Birmingham AL	vlad@uab.edu
+VQ	qv	Claire Y. H. Benard	Department of Neurobiology, University of Massachusetts Medical School, 55 Lake Avenue North,  Worcester, Massachusetts 01655,  USA	Claire.Benard@umassmed.edu
+VR	vf	Costi D Sifri	University of Virginia, Charlottesville VA	cds9n@cms.mail.virginia.edu
+VS	hj	Ho Yi Mak	Hong Kong University of Science and Technology, Kowloon, Hong Kong	hym@ust.hk
+VT	ma	Victor Robert Ambros	University of Massachusetts Medical School, Worcester MA	vrambros@gmail.com
+VU	vb	Elizabeth Malone Link	Vanderbilt Univ Med Center, Nashville TN	elizabeth.link@mcmail.vanderbilt.edu
+VV	vq	Michael Petrascheck	The Scripps Research Institute, La Jolla CA	pscheck@scripps.edu
+VVR	dec	Valeria Vasquez	The University of Tennessee Health Science Center, Memphis, TN	vvasquez@uthsc.edu
+VW	zt	Richard Mako Saito	Dartmouth Medical School	richard.m.saito@dartmouth.edu
+VWL	jdc	Heather Alane Van Epps	Western Washington University, Bellingham WA	heather.vanepps@wwu.edu
+VX	yf	Asher Damon Cutter	University of Toronto, Toronto, Canada	asher.cutter@utoronto.ca
+VZ	vz	Antonio Miranda-Vizuete	Instituto de Biomedicina de Sevilla (IBIS-CSIC), Sevilla, Spain	amiranda-ibis@us.es
+WA	nh	Charles Edward Warren	University of New Hampshire, Durham NH	
+WAL	ker	Amy K Walker	Umass Medical School, Worcester, MA	Amy.Walker@umassed.edu
+WB	zp	Benjamin D Williams	University of Illinois, Urbana IL	bdwilliams@cambriabio.com
+WBF	wbf	Wolf B. Frommer	Carnegie Institution for Science, Stanford CA	wfrommer@stanford.edu
+WBM	wbm	William B Mair	Harvard School of Public Health, Boston MA	mair@salk.edu
+WBX	lpg	Jose-Eduardo Gomes	Universite de Bordeaux, Bordeaux, France	jose-eduardo.gomes@u-bordeaux.fr
+WC	tw	Christopher Edward Tilmann	Tilmann,Christopher Loyola College, Baltimore MD	cetilmann@loyola.edu
+WCH	wch	Andrea Calixto	Universidad Mayor, Santiago, Chile	andrea.calixto@umayor.cl
+WD	on	William Brent Derry	Hospital for Sick Children, Toronto, Canada	
+WDC	ana	Anna Krueger Allen	Howard University, Washington, DC	anna.allen@howard.edu
+WDY	nds	Dayong M Wang	Southeast University, Nanjing, China	dayongw@seu.edu.cn
+WE	aj	Man-Wah Tan	Genentech Inc., South San Francisco CA	tan.man-wah@gene.com
+WEH	wur	Ann Marie Wehman	Rudolf-Virchow-Zentrum, Wrzburg, Germany	ann.wehman@uni-wuerzburg.de
+WEN	wen	Quan Wen	University of Science and Technology of China, Hefei, China	qwen@ustc.edu.cn
+WF	cw	Wayne C. Forrester	Indiana University, Bloomington IN	wforrest@bio.indiana.edu
+WFK	cbd	Wolfgang Fischle	Max Planck Institute for Biophysical Chemistry, Goettingen, Germany	wfischl@gwdg.de
+WG	au	Warwick Norman Grant	La Trobe University, Victoria, Australia	W.Grant@latrobe.edu.au
+WH	oj	John Graham White	University of Wisconsin, Madison WI	jwhite1@facstaff.wisc.edu
+WHE	jrw	Johnathan R Whetstine	Johnathan Harvard Medical School, Boston MA	johnathan_whetstine@hms.harvard.edu
+WHR	ula	Winship Herr	University of Lausannne, Lausanne, Switzerland	winship.herr@unil.ch
+WJ	sh	William J Sharrock	University of Minnesota, St. Paul MN	
+WK	lx	Wendy S Katz	University of Kentucky, Lexington KY	wkatz@pop.uky.edu
+WKB	iwt	Tokumitsu Wakabayashi	Iwate University, Iwate, Japan	wakat@iwate-u.ac.jp
+WL	ah	Brit Corneliussen	AstraZeneca R&D, Molndal, Sweden	brit.corneliussen@astrazeneca.com
+WLP	lea	Lionel Pintard	Batiment Buffon, Paris-Diderot University,  75205 Paris Cedex 13, France	pintard.lionel@ijm.jussieu.fr
+WLZ	wlz	Benjamin Wolozin	Boston University School of Medicine, Boston MA	bwolozin@bu.edu
+WM	ne	Craig C Mello	University of Massachusetts, Worcester MA	craig.mello@ummed.edu
+WN	ew	Jan E Kammenga	University of Wageningen, Wageningen, The Netherlands	Jan.Kammenga@wur.nl
+WP	dm	David C Merz	University of Manitoba, Canada	
+WQ		John Spieth	Washington University, St Louis MO	
+WR	oh	William Robert Morgan	The College of Wooster, Wooster OH	wmorgan@acs.wooster.edu
+WRM	spr	Sean Patrick Ryder	UMass Medical School, Worcester MA, USA	
+WS	op	Michael Otmar Hengartner	University of Zurich, Zurich, Switzerland	hengartn@cshl.org
+WSR	rga	William S. Ryu	University of Toronto, Ontario, Canada	willryu@gmail.com
+WT	wt	Carolyn Anne Behm	ANU, Canberra, Australia	
+WU	am	Kerry Kornfeld	Washington University, St. Louis MO	kornfeld@pharmdec.wustl.edu
+WUM	vir	David Wang	Washington University School of Medicine, St. Louis, MO	davewang@wusm.wustl.edu
+WV	wv	Wayne Alan Van Voorhies	New Mexico State University, Las Cruces NM	
+WW	xx	Martin Samoiloff	University of Manitoba, Winnipeg, Canada	
+WWZ	caz	Weiwei Zhong	Rice University, Houston TX	weiwei.zhong@rice.edu
+WX	og	Stephen Robert Wicks	Boston College, Boston MA	
+WY	fd	David Samuel Fay	University of Wyoming, Laramie WY	
+WYY	hku	Karen Wing Yee Yuen	University of Hong Kong, Hong Kong, China	kwyyuen@hku.hk
+WZ	ry	Ze'ev A Ronai	Burnham Institute, La Jolla, CA	ronai@burnham.org
+XA	qa		CGC, Sanger Institute, Cambridge, England	
+XB	ug	David Donald Hansen	University of Calgary, Alberta, Canada	
+XC	xc	Diana S Chu	Department of Biology	chud@sfsu.edu
+XD	xd	Xun Huang	GDB, Chinese Academy of Sciences, Beijing, China	
+XE	wp	Marc Hammarlund	Yale University, New Haven CT	marc.hammarlund@yale.edu
+XF	lf	Marcel Tijsterman	Hubrecht Laboratory, Utrecht, The Netherlands	tijsterman@niob.knaw.nl
+XG	gp	Samuel T Henderson	Genoplex Inc., Denver CO	shenders@genoplex.com
+XH	xh	Takao Inoue	National Institute of Health Sciences, Tokyo, Japan	takao@nihs.go.jp
+XIL	thu	Xiao Liu	Tsinghua University, Beijing, China	xiaoliu@mail.tsinghua.edu.cn
+XJ	kf	Rex Alexander Kerr	HHMI Janelia Farm Research Campus, Ashburn VA	kerrr@janelia.hhmi.org
+XK	xy	Tim L Kroft	Auburn University of Montgomery, Montgomery, AL	tkroft@aum.edu
+XL	nt	Shawn R Lockery	University of Oregon, Eugene OR	shawn@lox.uoregon.edu
+XM	aq	Michael Anthony Miller	University of Alabama, Birmingham AL	mamiller@uab.edu
+XMN	bgg	Brock Grill	The Scripps Research Institute, FL	bgrill@scripps.edu
+XN	xr	Chieh Chang	University of Illinois at Chicago, Chicago, IL	chieh.chang1@gmail.com
+XP	nd	Daniel L. Chase	University of Massachusetts, Amherst MA	danchase@biochem.umass.edu
+XQ	xq	J. Alex Parker	Universite de Montreal, Quebec, Canada	ja.parker@umontreal.ca
+XR	kk	Richard Neal Kolesnick	Sloan Kettering Institute, New York NY	rkolesni@pop.ski.mskcc.org
+XS	ux	Robert Michael Steven	University of Toledo, Toledo, OH	robert.steven2@utoledo.edu
+XT	hg	Peter E.M. Taschner	Leiden University, Leiden, The Netherlands	P.Taschner@lumc.nl
+XU	xp	Peter L Barrett	Xavier University of Louisiana, New Orleans LA	pbarrett@xula.edu
+XV	cen	Xantha Elethea Karp	Central Michigan University, Mt Pleasant MI	karp1x@cmich.edu
+XW	qx	Xiaochen Wang	NIBS, Beijing, China	wangxiaochen@nibs.ac.cn"
+XWZ	sky	Wei Xiao	Capital Normal University, Beijing, China	clzhang01@gmail.com
+XX	yy	Lisa D Timmons	University of Kansas, Lawrence KS	
+XY	lg	Karlheinz Tovar	EleGene, Martinsried, Germany	k.tovar@elegene.de
+XZ	yak	Michael Ailion	University of Washington, Seattle WA	michael.ailion@gmail.com
+YA	yp	Shawn Ahmed	University of North Carolina, Chapel Hill NC	
+YAA	asr	Yasushi Sako	RIKEN, Wako, Japan	sako@riken.jp
+YAN	ylw	Ke-Qin Zhang	Yunnan University, Kunming, China	kqzhang111@yahoo.com.cn
+YAR		Yair Argon	The Children's Hospital of Philadelphia, Philadelphia, PA	yargon@mail.med.upenn.edu
+YB	td	Kenji Kontani	University of Tokyo, Tokyo, Japan	kontani@mol.f.u-tokyo.ac.jp
+YBT		Yonatan B Tzur	The Hebrew University of Jerusalem, Jerusalem, Israel	tzur@mail.huji.ac.il
+YC	gh	Yoshio Goshima	Yokohama City University, Yokohama, Japan	goshima@med.yokohama-cu.ac.jp
+YD	xz	Carina I Holmberg	Molecular Cancer Biology Program & Institute of Biomedicine, Biomedicum Helsinki,University of Helsinki, PO Box 63, Haartmaninkatu 8, FIN-00014 Helsinki, Finland	carina.holmberg@helsinki.fi
+YE	zm	Raymond C Chan	University of Michigan, MI	rchan@umich.edu
+YEW		Weimin Ye	NCDA&CS, Raleigh NC	Weimin.Ye@ncmail.net
+YF	tq	Terrance J Kubiseski	York University, Toronto, Canada	tkubises@yorku.ca
+YG	yg	Yosef Gruenbaum	Hebrew Univ.of Jerusalem, Jerusalem, Israel	gru@vms.huji.ac.il
+YH	yhw	Bradley Keith Yoder	University of Alabama, Birmingham AL	byoder@uab.edu
+YHS	kku	Yhong-Hee Shim	Konkuk University, Seoul, Korea	yshim@konkuk.ac.kr
+YJ	uy	Young-Jai You	Virginia Commonwealth University, Richmond VA	yjyou@vcu.edu
+YK	ms	Yuji Kohara	National Institute of Genetics, Mishima, Japan	ykohara@LAB.nig.ac.jp
+YL	vr	Valerie J Reinke	Yale University, New Haven CT	valerie.reinke@yale.edu
+YM	bt	Masayuki Yamamoto	University of Tokyo, Tokyo, Japan	myamamot@ims.u-tokyo.ac.jp
+YMW	xmu	Yamei Wang	Xiamen University, Xiamen, Fujian, China	wangyamei@xmu.edu.cn
+YN	gy	Min-Ho Lee	SUNY, Albany NY	mhlee@albany.edu
+YOS	sag	Toyoshi Yoshiga	Saga University, Saga, Japan	tyoshiga@cc.saga-u.ac.jp
+YP	ykp	Young-Ki Paik	 Yonsei University, Seoul, Korea	
+YQ	wf	Chang-Shi Chen	National Cheng Kung University, Department of Biochemistry and Molecular Biology, No.1 University Rd., Tainan 701, Taiwan	<cschen@mail.ncku.edu.tw>
+YQL	yuq	Yuqing Li	University of Alabama, Birmingham AL	yli@uab.edu
+YR	wn	Ilya Ruvinsky	University of Chicago, Chicago IL	ruvinsky@uchicago.edu
+YS	bm	Yang Shi	Harvard Medical School, Boston MA	yang_shi@hms.harvard.edu
+YT	tz	Yoshishige Kimura	Kanagawa University of Human Services; Yokosuka, Japan	kimura-3yb@kuhs.ac.jp
+YU	uw	Timothy David Walston	Truman State University, Kirksville MO	tdwalston@truman.edu
+YUW	bst	Jin Il Lee	Yonsei University, Seoul, Korea	jinillee@yonsei.ac.kr
+YV	ivy	Wei Li	Tongji University, Shanghai, China	liw@tongji.edu.cn
+YW	tp	Yi-Chun Wu	National Taiwan University, Taiwan	yichun@cmgm.Stanford.EDU
+YX	qh	Christopher Fang-Yen	University of Pennsylvania, Philadelphia PA	cfangyen@gmail.com, fangyen@fas.harvard.edu
+YY	gg	Scott G Kennedy	Harvard Medical School, Boston MA	kennedy@genetics.med.harvard.edu
+YZ	rq	Marie T. Killeen	Ryerson University, Toronto, Canada	mkilleen@ryerson.ca
+ZA	cq	Alexander Mark van der Bliek	UCLA, Los Angeles CA	avan@mednet.ucla.edu
+ZB	bz	Monica A Driscoll	Rutgers University, Piscataway NJ	driscoll@mbcl.rutgers.edu
+ZC	yx	Yun Zhang	Harvard University, Cambridge MA	
+ZD	qd	Dennis H Kim	MIT, Cambridge MA	dhkim@MIT.EDU
+ZE	ze	Stephen Andrew Adam	Northwestern University Med School, Chicago IL	
+ZF	qw	Takao Inoue	Department of Biochemistry, Room: MD4A #02-03,National University of Singapore, Singapore 117597	bchti@nus.edu.sg
+ZG	ia	Jo Anne Powell-Coffman	Iowa State University, Ames IA	japc@iastate.edu
+ZH	en	Zheng Zhou	Baylor College of Medicine, Houston TX	
+ZIB	ast	Zita Balklava	Aston University, Birmingham, England	z.balklava@aston.ac.uk
+ZIM	mzm	Manuel Zimmer	IMP, Vienna, Austria	manuel.zimmer@imp.ac.at
+ZJ	nq	Hidenori Taru	Hokkaido University, Sapporo, Japan	taru@cris.hokudai.ac.jp
+ZK	aw	Aguan Daniel Wei	Seattle Children's Hospital Research Institute, Seattle, WA	aguan.wei@seattlechildrens.org
+ZL	fk	Robyn Lints	Texas A&M University, College Station TX	rlints@mail.bio.tamu.edu
+ZM	hp	Mei Zhen	Samuel Lunenfeld Res Inst, Toronto, Canada	
+ZN	xv	Andrew G Davies	Virginia Commonwealth University, Richmond VA, USA	agdavies@vcu.edu
+ZOU	yan	Yan Zou	ShanghaiTech University, Shanghai, China	zouyan@shanghaitech.edu.cn
+ZP	jhu	Jinghua Hu	Mayo Clinic, Rochester MN	Hu.Jinghua@mayo.edu
+ZPL	zpa	Zachary Pincus	zpincus@wustl.edu	zpincus@wustl.edu
+ZQ	zq	Craig W LaMunyon	California State Polytechnic Univ, Pomona CA	cwlamunyon@csupomona.edu
+ZR	zr	Anna Elisabetta Salcini	European Inst. of Oncology, Milano, Italy	lisa.salcini@bric.dk
+ZS	zs	Stephen Richard Sturzenbaum	King's College London, London, UK	stephen.sturzenbaum@kcl.ac.uk
+ZT	fj	Hiroaki Tabara	Kyoto University, Kyoto, Japan	
+ZU	cz	Monica Gotta	ETH Hoenggerberg, Zuerich, Switzerland	monica.gotta@bc.biol.ethz.ch
+ZV	hn	Ricardo Bruno Azevedo	University of Houston, Houston TX	
+ZW	zw	Zhao-Wen Wang	University of Connecticut, Farmington CT	
+ZX	zx	Alexander Gottschalk	University Frankfurt, Frankfurt, Germany	
+ZXW	hkd	Zheng-Xing Wu	Huazhong University, Hubei, China	ibbwuzx@mail.hust.edu.cn
+ZY	ym	Michael Yi Chao	California State Univ., San Bernardino CA	mchao@csusb.edu
+ZZ	x	Jim Lewis	University of Texas, San Antonio TX	jlewis@utsa.edu
+ZZY	zzy	Zhongying Zhao	Hong Kong Baptist University, Hong Kong, China	zyzhao@hkbu.edu.hk

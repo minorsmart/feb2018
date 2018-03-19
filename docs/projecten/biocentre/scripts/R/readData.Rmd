@@ -1,0 +1,77 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## Read XML data
+
+```{r}
+library(tidyverse)
+library(XML)
+library(plyr)
+
+xmlFile <- "labs.xml"
+
+xmlGetNodeAttr <- function(n, xp, attr, default=NA) {
+ns<-getNodeSet(n, xp)
+if(length(ns)<1) {
+    return(default)
+} else {
+    sapply(ns, xmlGetAttr, attr, default)
+}
+}
+
+xmlDoc <- xmlParse(xmlFile)
+
+
+xmlSet1 <- do.call(rbind, lapply(xmlChildren(xmlRoot(xmlDoc)), function(x) {
+data.frame(
+    labName=xmlGetNodeAttr(x, ".//data","affiliation",NA),
+    labID=xmlGetNodeAttr(x, ".//lab","id",NA),
+    repMail=xmlGetNodeAttr(x, ".//data","email",NA),
+    labUrl=xmlGetNodeAttr(x, ".//data","url",NA)
+)
+}))
+
+xmlSet2 <- do.call(rbind, lapply(xmlChildren(xmlRoot(xmlDoc)[[1]][[1]]), function(x) {
+data.frame(
+    repName=xmlGetNodeAttr(x, ".//representative","label",NA)
+)
+}))
+
+xmlDF <- cbind(xmlSet1, xmlSet2)
+
+filter(xmlDF, is.na(repName))
+
+# class(xmlDoc)
+# xmlTop = xmlRoot(xmlDoc)
+# class(xmlTop)
+# xmlName(xmlTop)
+# xmlSize(xmlTop)
+# xmlName(xmlTop[[1]])
+# xmlSize(xmlTop[[1]])
+# xmlSApply(xmlTop[[1]], xmlName) #name(s)
+# xmlSApply(xmlTop[[1]], xmlAttrs) #attribute(s)
+# xmlTop[[1]][[1]]
+```
+
+# Map with selected laboratories
+
+```{r}
+library(leaflet)
+library(stringr)
+
+xmlDF <- filter(xmlDF, labName != " ")
+geoCodes <- read.csv("geocodes.csv", header = FALSE, stringsAsFactors = FALSE)
+geoCodes[[1]] <- sub("([a-z])(-?[,])([0-9])", "\\1;\\3", geoCodes[[1]], ignore.case = TRUE)
+geoCodes$labName <- sapply(strsplit(geoCodes[[1]],';'), "[", 1)
+geoCodes$location <- sapply(strsplit(geoCodes[[1]],';'), "[", 2)
+geoCodes$lat <- sapply(strsplit(geoCodes$location,','), "[", 1) %>% as.numeric
+geoCodes$lon <- sapply(strsplit(geoCodes$location,','), "[", 2) %>% as.numeric
+
+m <- leaflet(geoCodes[1:10,]) %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=~lon, lat=~lat, popup=~labName)
+m 
+```
+
