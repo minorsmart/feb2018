@@ -5,7 +5,7 @@ output: html_notebook
 
 ## Read XML data
 
-```{r}
+```{r echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
 library(tidyverse)
 library(XML)
 library(plyr)
