@@ -6796,3 +6796,7 @@ footer .btn {
   height: 100%;
   padding:15px 5% 15px 5%;
 }
+
+a {
+  color: #4caf50;
+}
