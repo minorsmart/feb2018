@@ -1,85 +1,142 @@
 <!DOCTYPE html>
 <html>
-<title>Smart Industry</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="public/assets/css/indexStyles.css">
-
+<head>
+    <title>Smart Industry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="public/assets/css/indexStyles.css">
+</head>
 <body>
 
 <!-- Navbar -->
 <div class="w3-top">
-	<div class="w3-bar w3-red w3-card w3-left-align w3-large nav-bar">
-		<a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" id="menu_button_mobile" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-		<a href="index.html" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
-		<a href="public/html/planning.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Planning</a>
-		<a href="public/html/project.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Project</a>
-		<a href="public/html/contact.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact</a>
-	</div>
+    <div class="w3-bar w3-red w3-card w3-left-align w3-large nav-bar header">
+        <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large nav-menu-style"
+           id="menu_button_mobile" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+        <a href="index.html" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+        <a href="public/html/pva.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">PVA</a>
+        <a href="public/html/planning.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Planning</a>
+        <a href="public/html/project.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Project</a>
+        <a href="public/html/presentatie.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Presentatie</a>
+        <a href="public/html/contact.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact</a>
+    </div>
 
-	<!-- Navbar on small screens -->
-	<div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-		<a href="public/html/planning.html" class="w3-bar-item w3-button w3-padding-large">Planning</a>
-		<a href="public/html/project.html" class="w3-bar-item w3-button w3-padding-large">Project</a>
-		<a href="public/html/contact.html" class="w3-bar-item w3-button w3-padding-large">Contact</a>
-	</div>
+    <!-- Navbar on small screens -->
+    <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+        <a href="public/html/pva.html" class="w3-bar-item w3-button w3-padding-large">PVA</a>
+        <a href="public/html/planning.html" class="w3-bar-item w3-button w3-padding-large">Planning</a>
+        <a href="public/html/project.html" class="w3-bar-item w3-button w3-padding-large">Project</a>
+        <a href="public/html/contact.html" class="w3-bar-item w3-button w3-padding-large">Contact</a>
+    </div>
 </div>
 
 <!-- Header -->
-<header class="w3-container w3-wide w3-red w3-center uneven-div fill-page" style="padding:128px 16px">
-	<h1 class="w3-margin w3-jumbo">Model to Price</h1>
-	<p class="w3-xlarge">by Pim Slagboom & Bart van Laar</p>
-	<p class="w3-xmedium header-text">Het doel van dit project zal zijn om een afgebakende door Vink opgelegde opdracht uit te voeren. Deze website zal gebruikt worden voor het kunnen volgen van de voortgang van het project.</p>
-	<button class="w3-black w3-padding-large w3-large w3-margin-top header-button" onClick="document.getElementById('about-us').scrollIntoView({behavior: 'smooth', block:'end'});">About us</button>
+<header class="w3-container w3-wide w3-center fill-page" style="padding:128px 16px">
+    <div>
+        <h1 class="w3-margin w3-jumbo">Model to Price</h1>
+        <p class="w3-xlarge">door Pim Slagboom & Bart van Laar</p>
+        <p class="w3-xmedium header-text">Het doel van dit project zal zijn om een afgebakende door Vink opgelegde
+            opdracht uit te voeren. Deze website zal gebruikt worden voor het kunnen volgen van de voortgang van het
+            project.</p>
+        <button class="w3-black w3-padding-large w3-large w3-margin-top header-button"
+                onClick="document.getElementById('about-us').scrollIntoView({behavior: 'smooth', block:'start'});">Het
+            Team
+        </button>
+    </div>
 </header>
 
 <!-- First Grid -->
 <div id="about-us">
-<div class="w3-row-padding w3-padding-64 w3-container even-div half-page">
-	<div class="w3-content">
-		<div class="w3-twothird">
-			<h1>Pim Slagboom</h1>
-			<h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
+    <div class="w3-row-padding w3-padding-16 w3-container even-div half-page">
+        <div class="w3-content">
+            <div class="w3-twothird">
+                <h1>Pim Slagboom</h1>
+                <h6 class="w3-padding-8">Vierdejaars student Bedrijfseconomie. Ik wil meer kennis opdoen over de
+                    technieken die onze toekomst gaan veranderen. Over een aantal jaar hoop ik mijn bijdrage te leveren
+                    aan de Smart Industry.</h6>
 
-			<p class="w3-text-grey text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-				occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-				laboris nisi ut aliquip ex ea commodo consequat.</p>
-		</div>
+                <p class="w3-text-grey text">Vanuit mijn opleiding heb ik ervaren dat het maken van de juiste keuzes
+                    draait om het hebben van goede informatie. Hiervoor is het ten eerste belangrijk dat alle relevante
+                    handelingen worden vastgelegd. Veel bedrijven hebben al grote stappen gezet in het automatiseren van
+                    hun processen en verzamalen van deze informatie. Er ligt echter nog veel potentie in deze informatie
+                    om processen beter op elkaar af te stemmen. Daar gaat Smart Industry op verder. Door deze informatie
+                    op een slimme manier binnen het bedrijf of zelfs binnen de waardeketen te delen, kunnen processen
+                    nog beter op elkaar worden afgestemd. En daar ga ik me vanaf nu ook hard voor maken! </p>
+            </div>
 
-		<div class="w3-third w3-center">
-			<i class="fa fa-anchor w3-padding-64 w3-text-red"></i>
-		</div>
-	</div>
+            <div class="w3-third w3-center">
+                <img src="public/assets/img/Profielfoto.jpg" class="fa fa-anchor w3-padding-64 w3-text-red" alt="Foto"
+                     width="60%">
+            </div>
+        </div>
+    </div>
+    <!-- Second Grid -->
+    <div class="w3-row-padding  w3-padding-16 w3-container uneven-div half-page">
+        <div class="w3-content">
+            <div class="w3-third w3-center">
+                <img src="public/assets/img/fotoBartVL.jpg"
+                     class="fa w3-padding-64 w3-text-red w3-margin-right selfie"/>
+            </div>
+            <div class="w3-twothird">
+                <h1>Bart van Laar</h1>
+                <h6 class="w3-padding-8">3e jaars Software engineering student aan het Saxion. Door de Minor Smart
+                    Industry te volgen wil ik mijn kennis zo breed
+                    mogelijk uitbreiden met betrekking tot het Internet of Things en de hier bij komende technische,
+                    business en IT aspecten.</h6>
+
+                <p class="w3-text-grey text">Mijn opleiding is vooral gericht op het schrijven van programma's /
+                    websites in opdracht van een klant. Omdat er tot op het heden nog weinig klanten / opdrachtgevers
+                    zijn die zoeken naar een IoT gerichte oplossing ben ik hier nog niet mee in aanraking gekomen. Ik
+                    ben er zeker van ben dat de vraag naar IoT oplossingen zal toennemen in de nabije toekomst. Hier wil
+                    ik mij dus op voorbereid hebben! Dit hoop ik te doen door mij in te zetten op alle aspecten van het
+                    ontwikkeltraject van zowel de minor als het project dat uitgevoerd gaat moeten worden.</p>
+            </div>
+
+
+        </div>
+    </div>
 </div>
 
-<!-- Second Grid -->
-<div class="w3-row-padding  w3-padding-64 w3-container uneven-div half-page">
-	<div class="w3-content">
-		<div class="w3-third w3-center">
-			<i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
-		</div>
-
-		<div class="w3-twothird">
-			<h1>Bart van Laar</h1>
-			<h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
-
-			<p class="w3-text-grey text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-				occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-				laboris nisi ut aliquip ex ea commodo consequat.</p>
-		</div>
-	</div>
+<div id="video_container">
+    <div class="w3-row-padding w3-padding-16 w3-container even-div half-page video-pim">
+        <div class="w3-content w3-center ">
+            <iframe class="video" src="https://www.youtube.com/embed/PJllG_Dgqj0" frameborder="0"
+                    allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+        </div>
+    </div>
+    <div class="w3-row-padding w3-padding-16 w3-container even-div half-page video-bart">
+        <div id="video-bart" class="w3-content w3-center ">
+            <video controls class="video">
+                <source src="https://bartvanlaar.github.io/MSIVinkWebsite/public/assets/video/MinorMSI.webm" type="video/webm"/>
+            </video>
+        </div>
+    </div>
 </div>
+
+
+<div class="w3-row-padding w3-padding-16 w3-container uneven-div fill-page">
+    <div class=" fill-page">
+        <div class="w3-center">
+            <img src="public/assets/img/PersonaGridTeam.png"
+                 class="fa w3-padding-64 w3-text-red w3-margin-right team-image" alt="Team persona grid"/>
+            <img src="public/assets/img/TeamBMC.jpg" class="team-BMC" alt="Team BMC"/>
+        </div>
+    </div>
+
 </div>
+
 
 <!-- Footer -->
-<footer class="w3-container w3-center uneven-div footer">
-	<p>Made for use during the Minor Smart Industry</p>
-</footer>
+<footer class="w3-container w3-center even-div text footer">
+    <p>Made for use during the Minor Smart Industry <br/>
+        By Bart van Laar & Pim Slagboom
+    </p>
 
+</footer>
 <script src="public/assets/javascript/menuButton.js"></script>
 </body>
 </html>

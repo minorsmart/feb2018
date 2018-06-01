@@ -1,25 +1,95 @@
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
 .fa-anchor,.fa-coffee {font-size:200px}
+h1, h2, h3, h4 {
+    color: #f9f32c;
+}
+video {
+	object-fit: fill;
+}
 
 .fill-page {
     min-height: 100vh;
+	max-height: 100vh;
 }
 .half-page {
 	min-height: 50vh!important;
-	max-height: 50vh!important;
+	max-height: 100vh!important;
 }
 .even-div {
 	background-color: #373737!important;
 }
+
 .uneven-div {
 	background-color: #2d2d2d!important;
 }
+
+.no-padding {
+	padding: 0!important;
+}
+
 body {
 }
-h1, h2, h3, h4 {color: #f9f32c}
-h5 {
+
+h6 {
 	color: #b7af4d;
+}
+p {
+	font-size: 14px;
+}
+
+.video {
+    height: 45vh;
+    max-height: 45vh;
+	min-width: 100%;
+	max-width: 100%;
+	padding-bottom: 0;
+}
+.video-pim {
+	padding-bottom: 0!important;
+}
+
+.video-bart {
+	padding-top: 0!important;
+}
+.pva {
+    width: 100%;
+}
+
+
+
+.team-image {
+	width: auto;
+	height: auto;
+    max-height: 100vh;
+    max-width: 50%;
+    display: inline-block;
+}
+.team-BMC {
+	width: auto;
+	max-height: 100vh;
+    max-width: 50%;
+    display: inline-block;
+
+}
+
+
+.team-text-container {
+    width: 100% !important;
+    height: 20vh!important;
+}
+header div::after {
+	content: "";
+	background: url("../img/Vink-GVK.jpg");
+	opacity: 0.7;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: -1;
+	position: absolute;
+	min-height: 100vh;
+	min-width: 100%;
 }
 .text {
 	color: white!important;
@@ -27,21 +97,69 @@ h5 {
 .header-button {
 	color: #f9f32c!important;
 	background: #373737!important;
-	border: 1px solid #f9f32c!important;
+	border: 1px solid #b7af4d!important;
+}
+.nav-menu-style {
+	color: #f9f92c;
 }
 .header-text {
-	padding: 5% 25% 10% 25%;
+	padding: 5% 25% 5% 25%;
 	text-align: center !important;
 }
 .header-button:hover {
 	background: #373737!important;
 	color: #f9f32c!important;
-	box-shadow: 0 4px 8px 0 #f9f32c, 0 6px 20px 0 #f9f32c!important;
+	box-shadow: 0 4px 8px 0 #b7af4d, 0 6px 20px 0 #b7af4d!important;
 }
 .nav-bar {
 	background-color: #2d2d2d!important;
 	opacity: 0.70;
 }
-.footer{
-	background-color: #373737!important;
+.selfie{
+	max-width: 60%;
+}
+
+.three-quarter {
+	height: 75vh;
+	max-height: 75vh;
+}
+.one-quarter {
+	height: 25vh;
+	max-height: 25vh;
+}
+.contact-form {
+	min-height: 99vh;
+	width: 100%;
+}
+.footer {
+	color: #b7af4d!important;
+}
+@media only screen and (max-width: 600px), screen and (max-height: 600px ) {
+	.fill-page {
+
+	}
+	.header-text {
+		visibility: collapse;
+		padding: 0;
+		margin: 0;
+	}
+
+	p {
+		font-size: 15px;
+		margin: 10px;
+	}
+}
+
+@media only screen and (min-width: 1920px), screen and (min-height: 1080px ) {
+	.fill-page {
+		min-height: 100vh;
+		max-height: 100vh;
+	}
+	.half-page {
+		min-height: 50vh!important;
+		max-height: 50vh!important;
+	}
+}
+.pva {
+    height: 100vh;
 }
