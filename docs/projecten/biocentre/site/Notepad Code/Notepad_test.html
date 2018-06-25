@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Portfolio han</title>
+	<link rel="icon" type="image/png" href="assets/img/BioCentre_logo.png">
+	
+	<!-- css files -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+
+<!--	<link rel="icon" type="image/x-icon" href="assets/img/favicon.png"> -->
+	<meta name="author" content="Kris Andrada Pereira en Luuk Geurts">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+	<body>
+		<!-- Navbar -->
+		<nav class="nav container void-background">
+			<!-- This "nav-menu" is hidden on mobile -->
+			<!-- Add the modifier "is-active" to display it on mobile -->
+			<div class="nav-left">
+				<a href="index" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-home"></i>
+					</span>
+				</a>
+				<!--
+				<a href="http://github.com/helfi92" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-github"></i>
+					</span>
+				</a>
+				<a href="https://twitter.com/hassanhelfi" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-twitter"></i>
+					</span>
+				</a>
+				-->
+			</div>
+
+			<div class="nav-right nav-menu">
+				<a class="nav-item" href="#about">About</a>
+				<a class="nav-item" href="#projects">Wie zijn wij?</a>
+				<div class="nav-item dropdown" > 
+					<button class=" dropbtn"> Bestanden </button>
+						<div class="dropdown-content">
+						<a href="PvA"> Plan van Aanpak</a>
+						<a href="">Aanbeveling</a> 
+						<a href="">Pilot</a>
+						</div>
+				</div>
+				<a class="nav-item" href="#social">Contact</a>
+			</div>
+
+			<!-- This "nav-toggle" hamburger menu is only visible on mobile -->
+			<!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
+			<span class="nav-toggle">
+				<span></span>
+				<span></span>
+				<span></span>
+			</span>
+		</nav>
+				
+		<!-- Wie zijn wij? -->
+		<section id="about" class="section section-1">
+			<div class="container has-text-centered">
+				<!-- Source: https://flic.kr/p/pAZBNK -->
+ 				<img class="avatar" src="assets/img/C-Elegans.png">  <!-- C-elegans -->
+			</div>
+			<div class="container"></br>
+				<p class="intro">
+					Wij zijn twee studenten uit twee compleet verschillende werelden. Luuk zit in de technische wereld, met een achtergrond in <i> Mechatronica </i>. 
+					Kris voelt zich meer thuis in de economische wereld, met name de marketing kant van zijn studie <i> CommercieÃ«l Economie </i>.
+					Samen gaan wij aan de hand van onze twee perspectieven een project voor Han BioCentre aanpakken. Onder het kopje 'Bestanden' kan er meer gelezen worden.
+				</p>
+			</div>
+		</section>
+		
+		<!-- Projects -->
+		<section  id="projects" class="section section-2">
+			<div class="container">
+				<div class="has-text-centered">
+					<h3 class="title is-3">Wie zijn wij?</h3>
+				</div>
+				
+				<div class="columns is-multiline is-desktop">
+					<!-- Wie is Luuk? -->
+					<div class="column">
+						<div class="box project-text">
+							<article>
+								<div>
+									<figure class="image project-figure">
+										<img src="assets/img/avatarLuuk.jpg" alt="Image" width=70%>
+									</figure>
+								</div>
+								<br>
+								<br>
+								<br>
+								<div>			
+									<p>
+										Ik ben Luuk Geurts, 3<sup>e</sup> jaars mechatronica student aan de Fontys Hogeschool Engineering te Eindhoven. 
+										Momenteel volg ik de minor Smart Industry aan de HAN te Arnhem. Ik woon in Ewijk, een dorpje wat vlak bij Nijmegen ligt.
+									</p>
+								</div>
+								<br>
+								<div>
+								  <iframe width="520" height="292" src="https://www.youtube.com/embed/mXWHoNffUVs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <!-- Width560 height315 -->
+								</div>
+							</article>
+						</div>
+					</div>
+					<!-- Wie is Kris? -->
+					<div class="column">
+						<div class="box project-text">
+							<article>
+								<div>
+									<figure class="image project-figure">
+										<img src="assets/img/AvatarKris.jpg" alt="Gezicht Kris" width=80%>
+									</figure>
+								</div>
+								<br> <!-- Deze regel heb ik toegevoegd -->
+								<br> <!-- Deze regel heb ik toegevoegd -->
+								<br> <!-- Deze regel heb ik toegevoegd -->
+								<div>			
+									<p>
+										Mijn naam is Kris Andrade Pereira, 4<sup>e</sup> jaars Commercieel Economie student met een passie voor marketing en alles daar omtrent. 
+										Momenteel doe ik de minor Smart Industries om te leren hoe ik technologie met marketing kan combineren. 
+									</p>
+								</div>
+								<br> <!-- Deze regel heb ik toegevoegd -->
+								<div>
+								<iframe width="520" height="292" src="https://www.youtube.com/embed/P4V2D4c9nKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <!-- Width560 height315 -->
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Bestanden -->
+		<!-- Hier gaan we alle bestanden of voortgang neerzetten, bijvoorbeeld een link naar de pagina van de destep analyse etc.  -->
+		<!-- We moeten hier dus nog even niet kijken naar de afbeeldingen en de links die er als hyperlink onder zitten -->
+		<!-- Wel zou het handig zijn als we voor de leesbaarheid van de html code de class id's aanpassen naar wat wij er neer zetten -->
+		<section id="social" class="section section-3">
+			<div class="container">
+				<div class="has-text-centered">					
+					<h3 class="title is-3">Contact</h3>
+				</div>
+				<div class="social-container columns">
+					<div class="column is-4 has-text-centered">
+						<!-- <a target="_blank" href="https://www.linkedin.com/in/kristoffer-andrade-pereira/"><img class="" src="assets/img/KrisLinkedIn.jpg"> -->
+						<!-- Zet hiet je LinkedIn profiel bij -->
+						</a><a target="_blank" href="https://www.linkedin.com/in/luuk-geurts-000089138/"><img class="" src="assets/img/LuukLinkedIn.jpg"></a>
+						<a target="_blank" href="https://github.com/luukgeurts"><img class=""  src="assets/img/LuukGithub.jpg"></a>
+					</div>
+					<div class="column is-4 has-text-centered">
+					<!-- Zet hiet je Github profiel bij -->
+						<!-- <a target="_blank" href="https://www.instagram.com/helfiwalcott/"><img class=""  src="assets/img/LuukGithub.jpg"></a> -->
+					</div>
+					<div class="column is-4 has-text-centered">
+						<a target="_blank" href="https://www.linkedin.com/in/kristoffer-andrade-pereira/"><img class="" src="assets/img/KrisLinkedIn.jpg">
+						<a target="_blank" href="https://github.com/letsfith"><img class="" src="assets/img/KrisGithub.jpg"></a>
+					</div>
+				</div>
+			</div>
+		</section>	
+		
+		<!-- Footer -->
+	<!-- <section class="section-4 has-text-centered container">
+			<a href="http://www.hassanali.me/about">Hassan Ali</a>
+		</section>
+		//-->
+	
+		<!-- Scripts  -->
+		<script src="controller.js"></script>		
+	</body>	
+</html>

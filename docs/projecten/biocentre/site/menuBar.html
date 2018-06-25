@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>MenuBar</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS: You can use this stylesheet to override any Bootstrap styles and/or apply your own styles -->
+    
+	<!-- css files -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	
+	<!--	<link rel="icon" type="image/x-icon" href="assets/img/favicon.png"> -->
+	<meta name="author" content="Kris Andrada Pereira en Luuk Geurts">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <!-- Navbar -->
+		<nav class="nav container void-background">
+			<!-- This "nav-menu" is hidden on mobile -->
+			<!-- Add the modifier "is-active" to display it on mobile -->
+			<div class="nav-left">
+				<a class="nav-item ahome" href="index">
+					<span class="icon">
+						<i class="fa fa-home"></i>
+					</span>
+				</a>
+				<!--
+				<a href="http://github.com/helfi92" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-github"></i>
+					</span>
+				</a>
+				<a href="https://twitter.com/hassanhelfi" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-twitter"></i>
+					</span>
+				</a>
+				-->
+			</div>
+
+			<div class="nav-right nav-menu">
+				<a class="nav-item aabout" href="about">About</a>
+				<a class="nav-item adoelgroep" href="Onze_doelgroep">Doelgroep</a>
+				<div class="nav-item dropdown" > 
+					<button class=" dropbtn apva asegmentatie aconcurrentenanalyse"> Bestanden </button>
+						<div class="dropdown-content">
+						<a class="apva" href="PvA"> Plan van aanpak</a>
+						<a class="asegmentatie" href="Markt_Segmentatie">Markt segmentatie</a>
+						<a class="aconcurentenanalyse" href="Concurrenten_analyse">Concurrenten analyse</a>
+						<a class="aenquete" href="Resultaten_enquete">Resultaten enqu&#234;te</a>
+						<a class="arelaties" href="Waardevolle_relaties">Waardevolle relaties</a>
+						<a class="awaardepropositie" href="Waardepropositie">Waardepropositie</a>
+						<a class="aconclusie_marktonderzoek" href="Conclusie_marktonderzoek"> Conclusie marktonderzoek</a>
+						
+						</div>
+				</div>
+				<a class="nav-item" href="about#contact">Contact</a>
+			</div>
+
+			<!-- This "nav-toggle" hamburger menu is only visible on mobile -->
+			<!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
+			<span class="nav-toggle">
+				<span></span>
+				<span></span>
+				<span></span>
+			</span>
+		</nav>
+		
+    <!-- JavaScript is required for the dropdown menu -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap core JavaScript-->
+    <script src="js/bootstrap.js"></script>
+	
+
+</body>
+</html>
