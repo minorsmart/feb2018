@@ -5,16 +5,16 @@ html, body{
 }
 /* Links */
 a {
-  color: #fff;
+  color: #00d1b2;
   
 }
 
 a:hover {
-  color: #00d1b2;
+  color: #134ef2;
 }
 
 /* Current link */
-body.ahome a.ahome, body.aabout a.aabout, body.aconcurentenanalyse a.aconcurentenanalyse, body.asegmentatie a.asegmentatie, body.adoelgroep a.adoelgroep, body.apva a.apva, body.aenquete a.aenquete, body.arelaties a.arelaties, body.awaardepropositie a.awaardepropositie, body.aconclusie_marktonderzoek a.aconclusie_marktonderzoek{
+body.ahome a.ahome, body.aabout a.aabout, body.aconcurentenanalyse a.aconcurentenanalyse, body.asegmentatie a.asegmentatie, body.adoelgroep a.adoelgroep, body.apva a.apva, body.aenquete a.aenquete, body.arelaties a.arelaties, body.awaardepropositie a.awaardepropositie, body.aconclusie_marktonderzoek a.aconclusie_marktonderzoek, body.aVerantwoording a.aVerantwoording, body.aBronnenlijst a.aBronnenlijst{
 	box-shadow: 0px 3px 0px #00d1b2;
 }
 
@@ -157,7 +157,7 @@ ol{
     position: absolute;		/* was absolute */
     left: 0; 		/* was right:0; */
     background-color: #063647;
-    min-width: 155px; /* was 160 */
+    min-width: 210px; /* was 160 */
     /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */ 
     z-index: 1;
 }
@@ -240,6 +240,13 @@ ol{
 	background-color: #052D3D;
 	color: #cacecd;
 	text-align: center;
+	padding-left: 21%;
+	padding-right: 21%;
+}
+.bronnen{
+	background-color: #052D3D;
+	color: #cacecd;
+	text-align: left;
 	padding-left: 21%;
 	padding-right: 21%;
 }
